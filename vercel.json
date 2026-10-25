@@ -3,10 +3,12 @@
   "functions": {
     "api/v1/[[...route]].ts": {
       "runtime": "@vercel/node@5.10.2",
-      "includeFiles": "{configs/**,data/**,src/**}"
+      "includeFiles": "{configs/**,data/**,src/**}",
+      "maxDuration": 60
     },
     "api/py/index.py": {
-      "includeFiles": "api/_backend/**"
+      "includeFiles": "api/_backend/**",
+      "maxDuration": 60
     }
   },
   "rewrites": [

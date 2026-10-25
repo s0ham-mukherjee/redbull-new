@@ -14,7 +14,12 @@ backend 111/redbull-thapar-japan/modules/external/
 backend 111/*.zip
 
 # vercel serverless build staging (recreated by scripts/prepare-vercel.sh)
-api/_backend/
+# NOTE: api/_backend is deliberately NOT ignored. A GitHub-connected Vercel
+# build never runs prepare-vercel.sh (and .vercelignore keeps "backend 111" out
+# of the deployment), so the python functions must find the bundle already
+# committed — otherwise every /api/v1/greenlight* and /api/v1/pipeline/* route
+# dies with ModuleNotFoundError. Regenerate with scripts/prepare-vercel.sh
+# whenever the backend source under "backend 111/" changes.
 .vercel/
 
 # temp

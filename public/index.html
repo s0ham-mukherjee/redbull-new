@@ -2018,7 +2018,15 @@ if (location.protocol === "http:" || location.protocol === "https:") {
 
 /* ================= p09 PERSONAS · p10 MEMO · p11 REPORT · p12 STATUS ================= */
 const HTTP = location.protocol === "http:" || location.protocol === "https:";
-const fetchJSON = (u) => fetch(u).then(r => r.json());
+const fetchJSON = async (u) => {
+  const r = await fetch(u);
+  let d = null;
+  try { d = await r.json(); } catch { /* non-JSON error body */ }
+  if (!r.ok || (d && d.ok === false)) {
+    throw new Error((d && d.error) || `HTTP ${r.status} ${r.statusText}`);
+  }
+  return d || {};
+};
 const OFFLINE = `<div class="w hair" style="border-style:dashed"><p class="mono" style="color:var(--dim);font-size:11px;line-height:1.8">live data needs the bun server — run <span style="color:var(--sig)">bun run dev</span> and open http://localhost:8787 · static pages (Overview → Demo Ops) work offline</p></div>`;
 
 function renderPersonas(D){
@@ -2789,14 +2797,30 @@ $("#pipeRefresh").onclick = async () => {
   btn.disabled = true; btn.textContent = "⟳ pulling…";
   try {
     const d = await fetchJSON("/api/v1/pipeline/refresh");
-    const R = d.result;
-    btn.textContent = "⟳ pulled · " + R.freshness.slice(11);
-    $("#pipeMeta").textContent = `python worker · data refreshed ${R.freshness} · catalog ${R.steps.find(s=>s.catalog_rows)?.catalog_rows} rows · ${R.elapsed_ms} ms`;
+    const R = d.result || {};
+    const stamp = R.freshness || new Date().toISOString().slice(0, 19).replace("T", " ");
+    const time = String(stamp).slice(11);
+    btn.textContent = "⟳ pulled · " + time;
+    const rows = (R.steps || []).find(s => s.catalog_rows != null);
+    const lv = R.live || {};
+    $("#pipeMeta").textContent = `python worker · refreshed ${stamp}`
+      + (rows ? ` · catalog ${rows.catalog_rows} rows` : "")
+      + (R.elapsed_ms != null ? ` · ${R.elapsed_ms} ms` : "")
+      + (lv.trending_rows != null ? ` · live AniList ${lv.trending_rows} trending / ${lv.popularity_rows} top-popularity, ${lv.in_shipped_catalog} in catalog` : "");
+    $("#pipeOut").innerHTML = `<div class="w hair" style="border-style:dashed;padding:10px 12px">`
+      + `<p class="mono" style="font-size:10.5px;color:var(--mut);line-height:1.7">`
+      + `live re-pull done — caches cleared, next analysis rebuilds against the fresh landing. `
+      + `${R.offline ? "AniList unreachable right now (offline mode — the shipped snapshot was used)." : "Live AniList pages pulled."}`
+      + `<br>deep-history CSV rebuild stays local: <span style="color:var(--sig)">bun run dev</span> + ⟳.</p></div>`;
     _cacheClearJs();
     if (LAST_PIPELINE) pipeAnalyze(LAST_PIPELINE.title);
   } catch (err) {
+    const msg = String(err.message || err);
     btn.textContent = "⟳ pull failed";
-    setTimeout(() => btn.textContent = "⟳ Pull live data", 2000);
+    $("#pipeOut").innerHTML = `<div class="w hair" style="border-style:dashed;padding:10px 12px">`
+      + `<p class="mono" style="font-size:11px;color:var(--dim);line-height:1.8">`
+      + `live re-pull failed — ${esc(msg)}</p></div>`;
+    setTimeout(() => btn.textContent = "⟳ Pull live data", 2500);
   }
   btn.disabled = false;
 };
@@ -3199,12 +3223,23 @@ async function glInit(){
       $("#glTitle").value = "";
       glRun();
     });
-  } catch (e) { /* presets are a convenience; typing still works */ }
+    $("#glHint").textContent = "paste a concept, or load an example — judged the way real anime are judged for India";
+  } catch (e) {
+    /* Presets are a convenience, but a dead example button is a bug report in
+       disguise — say WHY it failed instead of silently doing nothing. */
+    $("#glPresets").innerHTML = `<p class="mono" style="font-size:10px;color:var(--dim);line-height:1.7">`
+      + `examples unavailable: ${esc(String(e.message || e))}<br>`
+      + `the python engine did not answer — paste a concept anyway, or retry the page.</p>`;
+    $("#glHint").textContent = "examples unavailable — paste a concept directly";
+  }
 }
 $("#glGo").onclick = glRun;
 $("#glRandom").onclick = () => {
   const ps = GL_PRESETS && GL_PRESETS.presets;
-  if (!ps || !ps.length) return;
+  if (!ps || !ps.length) {
+    $("#glHint").textContent = "examples did not load — paste a concept, or reload the page to retry";
+    return;
+  }
   const p = ps[Math.floor(Math.random() * ps.length)];
   $("#glText").value = p.concept;
   glRun();
