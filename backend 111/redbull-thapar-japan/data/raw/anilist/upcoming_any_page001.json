@@ -1,0 +1,4975 @@
+{
+ "data": {
+  "Page": {
+   "pageInfo": {
+    "total": 5000,
+    "currentPage": 1,
+    "lastPage": 100,
+    "hasNextPage": true,
+    "perPage": 50
+   },
+   "media": [
+    {
+     "id": 198966,
+     "idMal": 62516,
+     "title": {
+      "romaji": "Dandadan 3rd Season",
+      "english": null,
+      "native": "ダンダダン 第3期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Aliens",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Youkai",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 76,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ghost",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Surreal Comedy",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tokusatsu",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cult",
+       "rank": 45,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kaiju",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 54185,
+     "favourites": 640,
+     "trending": 4,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Science SARU"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/198966"
+    },
+    {
+     "id": 181641,
+     "idMal": 59873,
+     "title": {
+      "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+      "english": null,
+      "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Heterosexual",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kuudere",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Female Cast",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School Club",
+       "rank": 76,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tsundere",
+       "rank": 72,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 71,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 62,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Feet",
+       "rank": 44,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Harem",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Otaku Culture",
+       "rank": 30,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 51238,
+     "favourites": 791,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Doga Kobo"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/181641"
+    },
+    {
+     "id": 171952,
+     "idMal": 57584,
+     "title": {
+      "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+      "english": null,
+      "native": "劇場版 陰の実力者になりたくて！ 残響編"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Isekai",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 95,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Chuunibyou",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dystopian",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Elf",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 50283,
+     "favourites": 820,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Nexus"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/171952"
+    },
+    {
+     "id": 209939,
+     "idMal": 63816,
+     "title": {
+      "romaji": "Sousou no Frieren 3rd Season",
+      "english": null,
+      "native": "葬送のフリーレン 第3期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 10,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Travel",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Elf",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Philosophy",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 36,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Skip",
+       "rank": 33,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Found Family",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 47329,
+     "favourites": 543,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "MADHOUSE"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/209939"
+    },
+    {
+     "id": 178031,
+     "idMal": 59068,
+     "title": {
+      "romaji": "Dungeon Meshi 2nd Season",
+      "english": "Delicious in Dungeon Season 2",
+      "native": "ダンジョン飯 第２期"
+     },
+     "format": "ONA",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 10,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Food",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dungeon",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 88,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cosmic Horror",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Elf",
+       "rank": 76,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Chimera",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dragons",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 46760,
+     "favourites": 385,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "TRIGGER"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/178031"
+    },
+    {
+     "id": 143103,
+     "idMal": 50668,
+     "title": {
+      "romaji": "Mahoutsukai no Yoru",
+      "english": "Witch on the Holy Night",
+      "native": "魔法使いの夜"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 20
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Magic",
+       "rank": 97,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Manipulation",
+       "rank": 92,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Witch",
+       "rank": 87,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kuudere",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Fairy Tale",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Philosophy",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Robots",
+       "rank": 57,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Werewolf",
+       "rank": 55,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Henshin",
+       "rank": 45,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ojou-sama",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 42396,
+     "favourites": 491,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "ufotable"
+       }
+      ]
+     },
+     "source": "VISUAL_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/143103"
+    },
+    {
+     "id": 186712,
+     "idMal": 61006,
+     "title": {
+      "romaji": "Bocchi the Rock! 2nd Season",
+      "english": null,
+      "native": "ぼっち・ざ・ろっく！ 2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Female Protagonist",
+       "rank": 99,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Rock Music",
+       "rank": 99,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Band",
+       "rank": 97,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Female Cast",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 95,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cute Girls Doing Cute Things",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Hikikomori",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Yuri",
+       "rank": 62,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 58,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 41603,
+     "favourites": 493,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "CloverWorks"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/186712"
+    },
+    {
+     "id": 177704,
+     "idMal": 58934,
+     "title": {
+      "romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+      "english": null,
+      "native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Fitness",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kuudere",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 39939,
+     "favourites": 478,
+     "trending": 3,
+     "studios": {
+      "nodes": [
+       {
+        "name": "A-1 Pictures"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/177704"
+    },
+    {
+     "id": 189323,
+     "idMal": 61338,
+     "title": {
+      "romaji": "Shangri-La Frontier 3rd Season",
+      "english": "Shangri-La Frontier Season 3",
+      "native": "シャングリラ・フロンティア 3rd season"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 10
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+     ],
+     "tags": [
+      {
+       "name": "Virtual World",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Video Games",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 83,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "E-Sports",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Animals",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dungeon",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 38293,
+     "favourites": 608,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "C2C"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/189323"
+    },
+    {
+     "id": 213702,
+     "idMal": 64516,
+     "title": {
+      "romaji": "Tongari Boushi no Atelier 2nd Season",
+      "english": "Witch Hat Atelier Season 2",
+      "native": "とんがり帽子のアトリエ 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Magic",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Witch",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 89,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Coming of Age",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Female Cast",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Drawing",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Found Family",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Child Cast",
+       "rank": 78,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Conspiracy",
+       "rank": 72,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Memory Manipulation",
+       "rank": 67,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 37221,
+     "favourites": 328,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "BUG FILMS"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213702"
+    },
+    {
+     "id": 195200,
+     "idMal": 62546,
+     "title": {
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 2",
+      "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
+      "native": "劇場版「鬼滅の刃」無限城編 第二章"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Swordplay",
+       "rank": 97,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Body Horror",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 65,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "War",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Henshin",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 35239,
+     "favourites": 398,
+     "trending": 4,
+     "studios": {
+      "nodes": [
+       {
+        "name": "ufotable"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/195200"
+    },
+    {
+     "id": 211496,
+     "idMal": 64058,
+     "title": {
+      "romaji": "Kagurabachi",
+      "english": "Kagurabachi",
+      "native": "カグラバチ"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "SPRING",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 4,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Shounen",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 94,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Revenge",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Criminal Organization",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "War",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Conspiracy",
+       "rank": 77,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Yakuza",
+       "rank": 76,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Assassins",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gore",
+       "rank": 62,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 57,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Lost Civilization",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 31702,
+     "favourites": 591,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Cypic"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/211496"
+    },
+    {
+     "id": 186822,
+     "idMal": 61035,
+     "title": {
+      "romaji": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+      "english": "The Guy She Was Interested In Wasn't a Guy At All",
+      "native": "気になってる人が男じゃなかった"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 8
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Music",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Yuri",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Rock Music",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tomboy",
+       "rank": 78,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 77,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Work",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gyaru",
+       "rank": 74,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Josei",
+       "rank": 63,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Fashion",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Iyashikei",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 31504,
+     "favourites": 510,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "CloverWorks"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/186822"
+    },
+    {
+     "id": 200929,
+     "idMal": 62844,
+     "title": {
+      "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+      "english": "The Apothecary Diaries: The Late Lady’s Treasure",
+      "native": "薬屋のひとりごと 亡妃の秘宝"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 12,
+      "day": 11
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 12,
+      "day": 11
+     },
+     "genres": [
+      "Drama",
+      "Mystery"
+     ],
+     "tags": [
+      {
+       "name": "Female Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medicine",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ancient China",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Historical",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 31388,
+     "favourites": 304,
+     "trending": 11,
+     "studios": {
+      "nodes": [
+       {
+        "name": "TOHO animation STUDIO"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/200929"
+    },
+    {
+     "id": 204429,
+     "idMal": 63143,
+     "title": {
+      "romaji": "Chainsaw Man: Shikaku-hen",
+      "english": null,
+      "native": "チェンソーマン 刺客篇"
+     },
+     "format": null,
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Fugitive",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 98,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 98,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Assassins",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gore",
+       "rank": 89,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Henshin",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Monster Boy",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Body Horror",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 79,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Monster Girl",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Foreign",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 30771,
+     "favourites": 302,
+     "trending": 3,
+     "studios": {
+      "nodes": [
+       {
+        "name": "MAPPA"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/204429"
+    },
+    {
+     "id": 209827,
+     "idMal": 63794,
+     "title": {
+      "romaji": "[Oshi no Ko] Final Season",
+      "english": null,
+      "native": "【推しの子】第4期 Final Season"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Revenge",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Idol",
+       "rank": 88,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Acting",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Suicide",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 75,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 71,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Twins",
+       "rank": 68,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Reincarnation",
+       "rank": 62,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Psychosexual",
+       "rank": 56,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 54,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Incest",
+       "rank": 49,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 47,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 30209,
+     "favourites": 390,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Doga Kobo"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/209827"
+    },
+    {
+     "id": 178467,
+     "idMal": 59139,
+     "title": {
+      "romaji": "Tsuki ga Michibiku Isekai Douchuu 3rd Season",
+      "english": null,
+      "native": "月が導く異世界道中 第三幕"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Isekai",
+       "rank": 98,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 30179,
+     "favourites": 523,
+     "trending": 1,
+     "studios": {
+      "nodes": []
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/178467"
+    },
+    {
+     "id": 169579,
+     "idMal": 56732,
+     "title": {
+      "romaji": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",
+      "english": null,
+      "native": "世界最高の暗殺者、異世界貴族に転生する 2ndシーズン"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Assassins",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Harem",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 29773,
+     "favourites": 373,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "SILVER LINK."
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/169579"
+    },
+    {
+     "id": 217434,
+     "idMal": 65077,
+     "title": {
+      "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2",
+      "english": null,
+      "native": "無職転生Ⅲ ～異世界行ったら本気だす～ 第2クール"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Male Protagonist",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 95,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gods",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Coming of Age",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Polyamorous",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Family Life",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Elf",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Revenge",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kemonomimi",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tsundere",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Reincarnation",
+       "rank": 20,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Royal Affairs",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 29767,
+     "favourites": 416,
+     "trending": 4,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Studio Bind"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/217434"
+    },
+    {
+     "id": 171630,
+     "idMal": 57557,
+     "title": {
+      "romaji": "THE ONE PIECE",
+      "english": "THE ONE PIECE",
+      "native": "THE ONE PIECE"
+     },
+     "format": null,
+     "episodes": 7,
+     "duration": 43,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 2,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure"
+     ],
+     "tags": [
+      {
+       "name": "Pirates",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Travel",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Found Family",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 89,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ships",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Skip",
+       "rank": 60,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 56,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 56,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 55,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 29340,
+     "favourites": 475,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "WIT STUDIO"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/171630"
+    },
+    {
+     "id": 179068,
+     "idMal": 59230,
+     "title": {
+      "romaji": "Zenchiteki na Dokusha no Shiten kara",
+      "english": "Omniscient Reader",
+      "native": "全知的な読者の視点から"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Death Game",
+       "rank": 95,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Survival",
+       "rank": 94,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gods",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Meta",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 84,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Mythology",
+       "rank": 83,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Found Family",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Loop",
+       "rank": 68,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 62,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Denpa",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Reincarnation",
+       "rank": 56,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Boys' Love",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 46,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 44,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Amnesia",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 28664,
+     "favourites": 672,
+     "trending": 0,
+     "studios": {
+      "nodes": []
+     },
+     "source": "OTHER",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/179068"
+    },
+    {
+     "id": 204436,
+     "idMal": 63147,
+     "title": {
+      "romaji": "Gachiakuta 2nd Season",
+      "english": "Gachiakuta Season 2",
+      "native": "ガチアクタ 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Urban Fantasy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dystopian",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Revenge",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Harem",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Class Struggle",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 28563,
+     "favourites": 336,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "bones film"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/204436"
+    },
+    {
+     "id": 204363,
+     "idMal": 63139,
+     "title": {
+      "romaji": "SAKAMOTO DAYS 2nd Season",
+      "english": "SAKAMOTO DAYS Season 2",
+      "native": "SAKAMOTO DAYS 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy"
+     ],
+     "tags": [
+      {
+       "name": "Assassins",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Found Family",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Guns",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gore",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 28256,
+     "favourites": 287,
+     "trending": 8,
+     "studios": {
+      "nodes": [
+       {
+        "name": "TMS Entertainment"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/204363"
+    },
+    {
+     "id": 209895,
+     "idMal": 63824,
+     "title": {
+      "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
+      "english": null,
+      "native": "呪術廻戦 死滅回游 後編"
+     },
+     "format": null,
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Shounen",
+       "rank": 97,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Battle Royale",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Curses",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Henshin",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Death Game",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Exorcism",
+       "rank": 64,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 63,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gore",
+       "rank": 46,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gambling",
+       "rank": 36,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 26617,
+     "favourites": 264,
+     "trending": 3,
+     "studios": {
+      "nodes": [
+       {
+        "name": "MAPPA"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/209895"
+    },
+    {
+     "id": 213846,
+     "idMal": 64546,
+     "title": {
+      "romaji": "Ore dake Level Up na Ken: Beyond the System",
+      "english": "Solo Leveling: Beyond the System",
+      "native": "俺だけレベルアップな件 - Beyond the System -"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Male Protagonist",
+       "rank": 83,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 25058,
+     "favourites": 277,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "A-1 Pictures"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213846"
+    },
+    {
+     "id": 213457,
+     "idMal": 64459,
+     "title": {
+      "romaji": "Fool Night",
+      "english": "Fool Night",
+      "native": "フールナイト"
+     },
+     "format": "ONA",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 26
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "tags": [
+      {
+       "name": "Class Struggle",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Eco-Horror",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dystopian",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Body Horror",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Suicide",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Work",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 24123,
+     "favourites": 163,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Shaft"
+       },
+       {
+        "name": "Sunrise"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213457"
+    },
+    {
+     "id": 189796,
+     "idMal": 61398,
+     "title": {
+      "romaji": "Make Heroine ga Oosugiru! 2nd Season",
+      "english": null,
+      "native": "負けヒロインが多すぎる！第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Male Protagonist",
+       "rank": 91,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School Club",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Unrequited Love",
+       "rank": 88,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 88,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Female Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tanned Skin",
+       "rank": 46,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tomboy",
+       "rank": 46,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 23787,
+     "favourites": 191,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "A-1 Pictures"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/189796"
+    },
+    {
+     "id": 179981,
+     "idMal": 59467,
+     "title": {
+      "romaji": "Chiyu Mahou no Machigatta Tsukaikata 2nd Season",
+      "english": "The Wrong Way to Use Healing Magic Season 2",
+      "native": "治癒魔法の間違った使い方 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Isekai",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 23537,
+     "favourites": 302,
+     "trending": 0,
+     "studios": {
+      "nodes": []
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/179981"
+    },
+    {
+     "id": 187924,
+     "idMal": 61203,
+     "title": {
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+      "english": null,
+      "native": "この素晴らしい世界に祝福を！4"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Satire",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 87,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Parody",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Afterlife",
+       "rank": 60,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Chuunibyou",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 23186,
+     "favourites": 241,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "ENGI"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/187924"
+    },
+    {
+     "id": 213656,
+     "idMal": 64500,
+     "title": {
+      "romaji": "Tsue to Tsurugi no Wistoria Season 3",
+      "english": null,
+      "native": "杖と剣のウィストリア Season3"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Magic",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 22643,
+     "favourites": 297,
+     "trending": 1,
+     "studios": {
+      "nodes": []
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213656"
+    },
+    {
+     "id": 174871,
+     "idMal": 58967,
+     "title": {
+      "romaji": "Haikyuu!!: VS Chiisana Kyojin",
+      "english": null,
+      "native": "ハイキュー!! VS 小さな巨人"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+     ],
+     "tags": [
+      {
+       "name": "Volleyball",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Coming of Age",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School Club",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 72,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 65,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 21780,
+     "favourites": 170,
+     "trending": 3,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Production I.G"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/174871"
+    },
+    {
+     "id": 185657,
+     "idMal": 60548,
+     "title": {
+      "romaji": "Skip to Loafer 2nd Season",
+      "english": "Skip and Loafer Season 2",
+      "native": "スキップとローファー 2nd season"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "SPRING",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 4,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Primarily Teen Cast",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 64,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 21005,
+     "favourites": 124,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "P.A.WORKS"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/185657"
+    },
+    {
+     "id": 197620,
+     "idMal": 62312,
+     "title": {
+      "romaji": "SEKIRO: NO DEFEAT",
+      "english": "Sekiro: No Defeat",
+      "native": "SEKIRO: NO DEFEAT"
+     },
+     "format": "TV",
+     "episodes": 8,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Swordplay",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ninja",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Samurai",
+       "rank": 88,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "War",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Historical",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Youkai",
+       "rank": 55,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Martial Arts",
+       "rank": 30,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dragons",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 19460,
+     "favourites": 162,
+     "trending": 6,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Qzil.la"
+       }
+      ]
+     },
+     "source": "VIDEO_GAME",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/197620"
+    },
+    {
+     "id": 161410,
+     "idMal": 54440,
+     "title": {
+      "romaji": "Lycoris Recoil (Shinsaku Animation)",
+      "english": null,
+      "native": "リコリス・リコイル 新作アニメーション"
+     },
+     "format": null,
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [],
+     "tags": [
+      {
+       "name": "Female Protagonist",
+       "rank": 87,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Guns",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Crime",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Assassins",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Yuri",
+       "rank": 74,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Adoption",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cute Girls Doing Cute Things",
+       "rank": 68,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Terrorism",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 62,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 19389,
+     "favourites": 121,
+     "trending": 0,
+     "studios": {
+      "nodes": []
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/161410"
+    },
+    {
+     "id": 209963,
+     "idMal": 63820,
+     "title": {
+      "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 2nd Season",
+      "english": "Sentenced to Be a Hero Season 2",
+      "native": "勇者刑に処す 懲罰勇者9004隊刑務記録 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Demons",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gods",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gore",
+       "rank": 65,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Conspiracy",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Military",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Crime",
+       "rank": 46,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Revenge",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 20,
+       "isGeneralSpoiler": true
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 19079,
+     "favourites": 199,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Studio KAI"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/209963"
+    },
+    {
+     "id": 205081,
+     "idMal": 63212,
+     "title": {
+      "romaji": "Kaguya-sama wa Kokurasetai: Kanketsu-hen",
+      "english": null,
+      "native": "かぐや様は告らせたい 完結編"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Heterosexual",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tsundere",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 18597,
+     "favourites": 128,
+     "trending": 3,
+     "studios": {
+      "nodes": []
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/205081"
+    },
+    {
+     "id": 154765,
+     "idMal": null,
+     "title": {
+      "romaji": "Genshin",
+      "english": null,
+      "native": "原神"
+     },
+     "format": null,
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Twins",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Travel",
+       "rank": 89,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gods",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 81,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Philosophy",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Religion",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Age Gap",
+       "rank": 79,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Amnesia",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Coming of Age",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 77,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 76,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Astronomy",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Mythology",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Lost Civilization",
+       "rank": 72,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Conspiracy",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "War",
+       "rank": 68,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 68,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Skip",
+       "rank": 67,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Airsoft",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Memory Manipulation",
+       "rank": 65,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Manipulation",
+       "rank": 60,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Alchemy",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Alternate Universe",
+       "rank": 58,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dragons",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kemonomimi",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Archery",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Youkai",
+       "rank": 36,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Harem",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 18591,
+     "favourites": 382,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "ufotable"
+       }
+      ]
+     },
+     "source": "VIDEO_GAME",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/154765"
+    },
+    {
+     "id": 199342,
+     "idMal": 62584,
+     "title": {
+      "romaji": "Hikaru ga Shinda Natsu 2nd Season",
+      "english": null,
+      "native": "光が死んだ夏 第二期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+     ],
+     "tags": [
+      {
+       "name": "Body Horror",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cosmic Horror",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Rural",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Monster Boy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Curses",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 79,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Denpa",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Boys' Love",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Mythology",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Unrequited Love",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 18535,
+     "favourites": 141,
+     "trending": 2,
+     "studios": {
+      "nodes": []
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/199342"
+    },
+    {
+     "id": 213477,
+     "idMal": 64463,
+     "title": {
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
+      "english": null,
+      "native": "ようこそ実力至上主義の教室へ 5th Season"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Drama",
+      "Psychological"
+     ],
+     "tags": [
+      {
+       "name": "School",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 68,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Boarding School",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Survival",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Fugitive",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Battle Royale",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Aromantic",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 18196,
+     "favourites": 213,
+     "trending": 1,
+     "studios": {
+      "nodes": []
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213477"
+    },
+    {
+     "id": 217331,
+     "idMal": 63129,
+     "title": {
+      "romaji": "Tensei Shitara Slime Datta Ken 4th Season Part 3",
+      "english": null,
+      "native": "転生したらスライムだった件 第4期 第3クール"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "SUMMER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 7,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Kingdom Management",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Demons",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Agender",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anthropomorphism",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 18024,
+     "favourites": 192,
+     "trending": 1,
+     "studios": {
+      "nodes": []
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/217331"
+    },
+    {
+     "id": 153676,
+     "idMal": 52750,
+     "title": {
+      "romaji": "SK∞ 2nd Season",
+      "english": null,
+      "native": "SK∞ エスケーエイト 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sports"
+     ],
+     "tags": [
+      {
+       "name": "Skateboarding",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cute Boys Doing Cute Things",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 67,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 17978,
+     "favourites": 141,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "bones film"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/153676"
+    },
+    {
+     "id": 199185,
+     "idMal": 62564,
+     "title": {
+      "romaji": "Tate no Yuusha no Nariagari Season 5",
+      "english": null,
+      "native": "盾の勇者の成り上がり Season 5"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Medieval",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 17473,
+     "favourites": 189,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Kinema Citrus"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/199185"
+    },
+    {
+     "id": 181951,
+     "idMal": 59928,
+     "title": {
+      "romaji": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season",
+      "english": null,
+      "native": "狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Economics",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Age Gap",
+       "rank": 79,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Interspecies",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 76,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Historical",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Work",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kemonomimi",
+       "rank": 72,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Travel",
+       "rank": 72,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Rural",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gods",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Religion",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Foreign",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tsundere",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 17174,
+     "favourites": 185,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Passione"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/181951"
+    },
+    {
+     "id": 199404,
+     "idMal": 62589,
+     "title": {
+      "romaji": "Blue Lock: NEO EGOIST LEAGUE",
+      "english": "BLUE LOCK NEO EGOIST LEAGUE",
+      "native": "ブルーロック ネオ・エゴイストリーグ"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+     ],
+     "tags": [
+      {
+       "name": "Football",
+       "rank": 93,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 83,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 16717,
+     "favourites": 200,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "8-bit"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/199404"
+    },
+    {
+     "id": 204747,
+     "idMal": 63193,
+     "title": {
+      "romaji": "One Punch Man 3 Part 2",
+      "english": "One Punch Man Season 3 Part 2",
+      "native": "ワンパンマン 第3期第2クール"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Superhero",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cosmic Horror",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gods",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 16234,
+     "favourites": 151,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "J.C.STAFF"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/204747"
+    },
+    {
+     "id": 162561,
+     "idMal": 54688,
+     "title": {
+      "romaji": "NARUTO×NINKU",
+      "english": null,
+      "native": "NARUTO-ナルト-×NINKU-忍空-"
+     },
+     "format": "TV",
+     "episodes": 4,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+     ],
+     "tags": [
+      {
+       "name": "Ninja",
+       "rank": 95,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Crossover",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 15789,
+     "favourites": 203,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "PIERROT FILMS"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/162561"
+    },
+    {
+     "id": 185543,
+     "idMal": 60525,
+     "title": {
+      "romaji": "Nozomanu Fushi no Boukensha 2nd Season",
+      "english": null,
+      "native": "望まぬ不死の冒険者 第2期"
+     },
+     "format": "ONA",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Vampire",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dungeon",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Swordplay",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medieval",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 15532,
+     "favourites": 195,
+     "trending": 0,
+     "studios": {
+      "nodes": []
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/185543"
+    },
+    {
+     "id": 126016,
+     "idMal": 56836,
+     "title": {
+      "romaji": "AKIRA (Shin Anime)",
+      "english": null,
+      "native": "アキラ (新アニメ)"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": null,
+     "seasonYear": null,
+     "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Dystopian",
+       "rank": 92,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Delinquents",
+       "rank": 90,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cyberpunk",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gangs",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Body Horror",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Philosophy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Tragedy",
+       "rank": 79,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Military",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anti-Hero",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "War",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Drugs",
+       "rank": 66,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Motorcycles",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Male Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Orphan",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gore",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 14515,
+     "favourites": 84,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Sunrise"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/126016"
+    },
+    {
+     "id": 213752,
+     "idMal": 64524,
+     "title": {
+      "romaji": "MARRIAGETOXIN 2nd Season",
+      "english": null,
+      "native": "マリッジトキシン 第2期"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Urban Fantasy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Assassins",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Marriage",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Boys' Love",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 14486,
+     "favourites": 127,
+     "trending": 4,
+     "studios": {
+      "nodes": [
+       {
+        "name": "bones film"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213752"
+    },
+    {
+     "id": 178972,
+     "idMal": 59217,
+     "title": {
+      "romaji": "GROTESQQQUE",
+      "english": null,
+      "native": "GROTESQQQUE-グロテスク-"
+     },
+     "format": "MOVIE",
+     "episodes": 3,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 6
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 6
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Gyaru",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Vampire",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Aliens",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anthology",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Video Games",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Monster Girl",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Battle Royale",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Found Family",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 55,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Virtual World",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Yuri",
+       "rank": 52,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cohabitation",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Survival",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cute Girls Doing Cute Things",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Motorcycles",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kemonomimi",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 14303,
+     "favourites": 88,
+     "trending": 3,
+     "studios": {
+      "nodes": [
+       {
+        "name": "CloverWorks"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/178972"
+    }
+   ]
+  }
+ }
+}

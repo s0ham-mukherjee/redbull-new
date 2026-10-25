@@ -1,0 +1,2968 @@
+{
+ "article": "Seraph of the End: Vampire Reign",
+ "project": "en.wikipedia",
+ "source_title": "Seraph of the End: Vampire Reign",
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024102300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024102600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024102700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024111000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024111200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024120800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024121100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024121200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024121800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024121900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2024123000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025010100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025010400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025010500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025010900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025011400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025011600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025011900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025012200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025012400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025020300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025020600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025020800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025021000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025021200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025021300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025021400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025021500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025021700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025022400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026030100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026030200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026030400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026030900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026031900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026032800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026033000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026033100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026040200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026040300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026040400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026040500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026040600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026040800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026041000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026041100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026041200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026041400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026041600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026041700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026042900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026050100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026050600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026050900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026051200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026051300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026051500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026051700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026052900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026053000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 16
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 35
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 24
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 28
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026093000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026100900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026101900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026102000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026102100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Seraph_of_the_End:_Vampire_Reign",
+   "granularity": "daily",
+   "timestamp": "2026102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  }
+ ]
+}

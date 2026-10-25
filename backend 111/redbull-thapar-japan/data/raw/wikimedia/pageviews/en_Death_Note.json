@@ -1,0 +1,6586 @@
+{
+ "article": "Death Note",
+ "project": "en.wikipedia",
+ "source_title": "Death Note",
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3090
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3121
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3233
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3104
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3393
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3207
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024102900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024103000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10507
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024103100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6384
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6971
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6425
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6261
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6558
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6767
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6401
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6736
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6480
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6579
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6602
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6394
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6127
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6351
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6223
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6339
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024111900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6378
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5763
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5826
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5909
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4168
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5526
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5444
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2860
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024113000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4227
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4396
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4292
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4079
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4100
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2430
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3662
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2845
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024120900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2699
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2851
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2880
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2756
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2864
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2758
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2761
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2868
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2755
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2768
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024121900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2782
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2736
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2824
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2655
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2627
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2638
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2705
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2813
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2907
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024123000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2024123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2814
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2984
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3018
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3118
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2942
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2811
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2799
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025010900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4244
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4173
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4433
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4228
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4196
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4330
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4350
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4350
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025011900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4177
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4350
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4576
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4848
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4487
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4616
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4757
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4597
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4410
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025012900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4649
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025013000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4378
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025013100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4971
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5194
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4757
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4852
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4878
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4993
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5195
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025020900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5027
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5094
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4741
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4670
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5598
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4533
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4632
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4761
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4727
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4637
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025021900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4402
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4550
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4640
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4933
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4551
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4548
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4580
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025022800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4584
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4625
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3296
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4521
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4666
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4598
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4627
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025030900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4765
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4623
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4744
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4595
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4533
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5045
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4745
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025031900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4547
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4600
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5812
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4967
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4844
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4771
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5394
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4748
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025032900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4759
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025033000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025033100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4782
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4637
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4440
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4566
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4716
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4851
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5361
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4534
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4376
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4349
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4712
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4848
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3616
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3408
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3372
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025041900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3567
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3614
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3488
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3520
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3496
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3885
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3896
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3813
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3659
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3586
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025043000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3249
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3105
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3340
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4319
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4604
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3530
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3387
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3396
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3344
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3490
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3592
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3609
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3272
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3409
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3133
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4549
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3531
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3270
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2560
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2506
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2518
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2538
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2709
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2693
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2685
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025052900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2939
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025053000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3474
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3594
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3791
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4055
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4061
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3779
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3281
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3180
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3077
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3066
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3390
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3243
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2953
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2733
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3087
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2943
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2983
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3044
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2586
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2897
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3093
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3256
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3019
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3095
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2252
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2265
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2284
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025063000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2568
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2228
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2218
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2097
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2107
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2330
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2389
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025070900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2313
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2403
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2321
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2214
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2289
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2720
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2491
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2235
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025071900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2316
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2430
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2542
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2424
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2528
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2633
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2507
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2563
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2748
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025072900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2508
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025073000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2491
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025073100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2658
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2487
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2495
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2630
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2557
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2854
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3140
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2861
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2928
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025080900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3077
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3043
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3293
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2899
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2987
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2739
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2839
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3007
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3031
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025081900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3172
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2637
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3061
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2949
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3007
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3184
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2769
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2871
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2832
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2845
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025083100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2822
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2704
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2770
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2671
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2549
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2671
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2713
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2878
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2777
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025090900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2585
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2588
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2661
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3238
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3098
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2854
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2938
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025091900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2930
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2950
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3205
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3050
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3200
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3141
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3099
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3013
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025093000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3267
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2760
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2981
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2804
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2923
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2960
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2899
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3019
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025100900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2852
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11135
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3058
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3104
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3216
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3179
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3603
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3471
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3559
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025101900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3633
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3630
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3387
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3162
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3497
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3541
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3450
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3384
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025102900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3073
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3262
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3460
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3828
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3352
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3417
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3065
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3423
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3391
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3330
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3305
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3099
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3255
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3121
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3320
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3482
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3180
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3507
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3162
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2977
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2961
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3116
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3403
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3164
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3377
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3375
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3547
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3572
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3501
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3225
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3061
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3560
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3362
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3023
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2966
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3833
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3198
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2948
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2969
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3078
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3090
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3073
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2905
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3314
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4108
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3171
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2891
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2807
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2709
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3408
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3403
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3645
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2980
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3629
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3546
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3507
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3153
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3252
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3127
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3062
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3163
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3131
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3394
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2960
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3127
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3119
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3122
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3116
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3083
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2930
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2916
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3048
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2950
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2910
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3013
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3381
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3087
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3078
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3030
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3223
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3063
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3252
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3091
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2904
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2970
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3840
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3111
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2841
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3546
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2820
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3041
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2762
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3070
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2776
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2993
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3119
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3320
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3678
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3328
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5379
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 14163
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6558
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7502
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3555
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3228
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3862
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3614
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3903
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4336
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3775
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3408
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3369
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026030900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2982
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3162
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3543
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3308
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3531
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3342
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3220
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2858
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026031900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2860
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2663
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2865
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3280
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3261
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3890
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3424
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4033
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4180
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026032900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3802
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026033000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4074
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026033100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3672
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3628
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3614
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3585
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3976
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5196
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3174
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026040900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3939
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4218
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3800
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3752
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3274
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3412
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3960
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3488
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3116
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026041900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3690
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3236
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3405
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3330
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3095
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3419
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3780
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3477
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3586
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026042900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3231
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026043000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3369
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3327
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3141
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3593
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3043
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2760
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2960
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2844
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2895
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026050900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3020
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2900
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3119
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2991
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2630
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2890
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2839
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2799
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3348
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3019
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2913
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2852
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2875
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3185
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3117
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2902
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3084
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2772
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026052900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2813
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026053000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2772
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026053100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2904
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3095
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2586
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2567
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2734
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2533
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2384
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2401
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2786
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2593
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2577
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2484
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2544
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2282
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2478
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2846
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2803
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2825
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2505
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2831
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2972
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2844
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2499
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2605
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2416
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2504
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2555
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2708
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3174
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2858
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2553
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2370
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2560
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2372
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2627
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2442
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2377
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2438
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2507
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2571
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2495
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2812
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2650
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2485
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2561
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2418
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2512
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2640
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2552
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2437
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2305
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2569
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2569
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2538
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2393
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2400
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2315
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2510
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2641
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2583
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2467
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2450
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2459
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2522
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2499
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2657
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2722
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3017
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2897
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3021
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3017
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3035
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2804
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2722
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3036
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3020
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3186
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3089
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2930
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3284
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2764
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2984
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2714
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3002
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3387
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3126
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3111
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2997
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3393
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3127
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3263
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3426
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3249
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3048
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3254
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3100
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3150
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3156
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3184
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3124
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3455
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3186
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026093000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3262
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3281
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3349
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3346
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3005
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2994
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3097
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026100900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2855
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2834
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3023
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2835
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2911
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2960
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2594
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3114
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026101900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2778
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026102000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2803
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026102100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2657
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Death_Note",
+   "granularity": "daily",
+   "timestamp": "2026102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3151
+  }
+ ]
+}

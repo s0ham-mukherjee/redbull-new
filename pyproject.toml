@@ -1,0 +1,16 @@
+[project]
+name = "sakurascore-vercel"
+version = "0.1.0"
+requires-python = ">=3.12"
+# the pipeline + greenlight engines (python functions on vercel;
+# the core sakura-abm simulation stays stdlib-only by design)
+dependencies = [
+  "numpy>=2.0",
+  "pandas>=2.2",
+  "pillow>=10.0",
+]
+
+[tool.vercel]
+# the Vercel python runtime builds ONE project-wide entrypoint; all python
+# routes (/api/v1/pipeline/*, /api/v1/greenlight*) are rewritten here
+entrypoint = "api.py.index:handler"

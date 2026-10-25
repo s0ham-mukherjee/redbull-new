@@ -1,0 +1,1331 @@
+{
+ "keyword": "one piece",
+ "geo": "IN",
+ "data": [
+  {
+   "date": "2021-09-26",
+   "interest": "23",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-10-03",
+   "interest": "22",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-10-10",
+   "interest": "19",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-10-17",
+   "interest": "25",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-10-24",
+   "interest": "23",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-10-31",
+   "interest": "21",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-11-07",
+   "interest": "22",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-11-14",
+   "interest": "24",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-11-21",
+   "interest": "26",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-11-28",
+   "interest": "23",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-12-05",
+   "interest": "22",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-12-12",
+   "interest": "24",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-12-19",
+   "interest": "24",
+   "isPartial": "False"
+  },
+  {
+   "date": "2021-12-26",
+   "interest": "25",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-01-02",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-01-09",
+   "interest": "26",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-01-16",
+   "interest": "25",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-01-23",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-01-30",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-02-06",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-02-13",
+   "interest": "26",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-02-20",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-02-27",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-03-06",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-03-13",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-03-20",
+   "interest": "43",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-03-27",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-04-03",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-04-10",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-04-17",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-04-24",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-05-01",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-05-08",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-05-15",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-05-22",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-05-29",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-06-05",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-06-12",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-06-19",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-06-26",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-07-03",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-07-10",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-07-17",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-07-24",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-07-31",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-08-07",
+   "interest": "46",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-08-14",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-08-21",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-08-28",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-09-04",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-09-11",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-09-18",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-09-25",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-10-02",
+   "interest": "52",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-10-09",
+   "interest": "47",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-10-16",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-10-23",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-10-30",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-11-06",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-11-13",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-11-20",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-11-27",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-12-04",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-12-11",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-12-18",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2022-12-25",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-01-01",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-01-08",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-01-15",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-01-22",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-01-29",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-02-05",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-02-12",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-02-19",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-02-26",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-03-05",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-03-12",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-03-19",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-03-26",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-04-02",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-04-09",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-04-16",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-04-23",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-04-30",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-05-07",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-05-14",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-05-21",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-05-28",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-06-04",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-06-11",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-06-18",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-06-25",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-07-02",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-07-09",
+   "interest": "43",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-07-16",
+   "interest": "48",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-07-23",
+   "interest": "49",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-07-30",
+   "interest": "54",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-08-06",
+   "interest": "64",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-08-13",
+   "interest": "48",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-08-20",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-08-27",
+   "interest": "83",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-09-03",
+   "interest": "100",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-09-10",
+   "interest": "78",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-09-17",
+   "interest": "74",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-09-24",
+   "interest": "60",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-10-01",
+   "interest": "56",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-10-08",
+   "interest": "50",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-10-15",
+   "interest": "46",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-10-22",
+   "interest": "51",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-10-29",
+   "interest": "45",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-11-05",
+   "interest": "43",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-11-12",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-11-19",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-11-26",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-12-03",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-12-10",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-12-17",
+   "interest": "44",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-12-24",
+   "interest": "44",
+   "isPartial": "False"
+  },
+  {
+   "date": "2023-12-31",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-01-07",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-01-14",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-01-21",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-01-28",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-02-04",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-02-11",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-02-18",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-02-25",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-03-03",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-03-10",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-03-17",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-03-24",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-03-31",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-04-07",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-04-14",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-04-21",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-04-28",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-05-05",
+   "interest": "41",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-05-12",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-05-19",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-05-26",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-06-02",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-06-09",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-06-16",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-06-23",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-06-30",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-07-07",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-07-14",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-07-21",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-07-28",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-08-04",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-08-11",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-08-18",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-08-25",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-09-01",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-09-08",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-09-15",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-09-22",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-09-29",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-10-06",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-10-13",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-10-20",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-10-27",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-11-03",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-11-10",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-11-17",
+   "interest": "27",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-11-24",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-12-01",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-12-08",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-12-15",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-12-22",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2024-12-29",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-01-05",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-01-12",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-01-19",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-01-26",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-02-02",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-02-09",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-02-16",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-02-23",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-03-02",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-03-09",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-03-16",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-03-23",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-03-30",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-04-06",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-04-13",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-04-20",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-04-27",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-05-04",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-05-11",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-05-18",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-05-25",
+   "interest": "42",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-06-01",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-06-08",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-06-15",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-06-22",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-06-29",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-07-06",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-07-13",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-07-20",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-07-27",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-08-03",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-08-10",
+   "interest": "44",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-08-17",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-08-24",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-08-31",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-09-07",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-09-14",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-09-21",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-09-28",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-10-05",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-10-12",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-10-19",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-10-26",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-11-02",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-11-09",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-11-16",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-11-23",
+   "interest": "38",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-11-30",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-12-07",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-12-14",
+   "interest": "36",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-12-21",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2025-12-28",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-01-04",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-01-11",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-01-18",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-01-25",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-02-01",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-02-08",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-02-15",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-02-22",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-03-01",
+   "interest": "35",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-03-08",
+   "interest": "99",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-03-15",
+   "interest": "90",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-03-22",
+   "interest": "63",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-03-29",
+   "interest": "59",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-04-05",
+   "interest": "60",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-04-12",
+   "interest": "45",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-04-19",
+   "interest": "40",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-04-26",
+   "interest": "39",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-05-03",
+   "interest": "37",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-05-10",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-05-17",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-05-24",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-05-31",
+   "interest": "34",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-06-07",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-06-14",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-06-21",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-06-28",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-07-05",
+   "interest": "33",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-07-12",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-07-19",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-07-26",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-08-02",
+   "interest": "31",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-08-09",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-08-16",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-08-23",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-08-30",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-09-06",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-09-13",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-09-20",
+   "interest": "29",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-09-27",
+   "interest": "32",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-10-04",
+   "interest": "30",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-10-11",
+   "interest": "28",
+   "isPartial": "False"
+  },
+  {
+   "date": "2026-10-18",
+   "interest": "26",
+   "isPartial": "True"
+  }
+ ]
+}

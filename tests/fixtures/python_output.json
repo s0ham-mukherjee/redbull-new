@@ -1,0 +1,1043 @@
+{
+ "schema_version": "1.0",
+ "ip_id": "demon-slayer-infinity-castle",
+ "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
+ "experiment_id": "regional-dubbing-test",
+ "simulation_status": "completed",
+ "engine": "sakura-abm",
+ "engine_version": "0.1.0",
+ "data_label_legend": {
+  "observed": "figure/report taken from a cited public source",
+  "inferred": "derived from cited sources by interpretation",
+  "simulated": "produced by this simulation under stated assumptions",
+  "unknown": "not known"
+ },
+ "scenarios": [
+  {
+   "id": "baseline-subs-only",
+   "label": "Baseline: Japanese + English (subbed) availability",
+   "description": "Counterfactual control: original Japanese with English subtitles/availability only. Did not occur as such in reality (the actual release included regional dubs); used to isolate the language factor.",
+   "counterfactual": true,
+   "languages_available": [
+    "ja",
+    "en"
+   ],
+   "marketing_reach": {
+    "streaming": 1.0,
+    "social": 1.0,
+    "theatrical": 1.0,
+    "search": 1.0,
+    "tv": 1.0
+   },
+   "seed": 42,
+   "data_label": "simulated",
+   "totals": {
+    "reach": 22,
+    "reach_rate": 0.55,
+    "viewed": 20,
+    "view_rate": 0.5,
+    "engaged": 15,
+    "engagement_rate": 0.375,
+    "shares_total": 17,
+    "discussions_total": 18,
+    "shares_per_agent": 0.425,
+    "data_label": "simulated"
+   },
+   "per_round": [
+    {
+     "round": 0,
+     "actions": {
+      "discover": 10,
+      "view_info": 8,
+      "express_interest": 2,
+      "share": 1,
+      "discuss": 0,
+      "ignore": 30
+     },
+     "cumulative_aware": 10,
+     "cumulative_viewed": 8,
+     "cumulative_engaged": 2,
+     "avg_wom_exposure": 0.01978
+    },
+    {
+     "round": 1,
+     "actions": {
+      "discover": 2,
+      "view_info": 3,
+      "express_interest": 6,
+      "share": 2,
+      "discuss": 4,
+      "ignore": 33
+     },
+     "cumulative_aware": 12,
+     "cumulative_viewed": 11,
+     "cumulative_engaged": 8,
+     "avg_wom_exposure": 0.121736
+    },
+    {
+     "round": 2,
+     "actions": {
+      "discover": 3,
+      "view_info": 2,
+      "express_interest": 2,
+      "share": 3,
+      "discuss": 1,
+      "ignore": 34
+     },
+     "cumulative_aware": 15,
+     "cumulative_viewed": 13,
+     "cumulative_engaged": 10,
+     "avg_wom_exposure": 0.161409
+    },
+    {
+     "round": 3,
+     "actions": {
+      "discover": 3,
+      "view_info": 3,
+      "express_interest": 1,
+      "share": 3,
+      "discuss": 4,
+      "ignore": 30
+     },
+     "cumulative_aware": 18,
+     "cumulative_viewed": 16,
+     "cumulative_engaged": 11,
+     "avg_wom_exposure": 0.169222
+    },
+    {
+     "round": 4,
+     "actions": {
+      "discover": 2,
+      "view_info": 2,
+      "express_interest": 2,
+      "share": 3,
+      "discuss": 5,
+      "ignore": 27
+     },
+     "cumulative_aware": 20,
+     "cumulative_viewed": 18,
+     "cumulative_engaged": 13,
+     "avg_wom_exposure": 0.216576
+    },
+    {
+     "round": 5,
+     "actions": {
+      "discover": 2,
+      "view_info": 2,
+      "express_interest": 2,
+      "share": 5,
+      "discuss": 4,
+      "ignore": 31
+     },
+     "cumulative_aware": 22,
+     "cumulative_viewed": 20,
+     "cumulative_engaged": 15,
+     "avg_wom_exposure": 0.242692
+    }
+   ],
+   "per_segment": {
+    "mainstream-anime-fans": {
+     "population": 14,
+     "reach": 10,
+     "engaged": 10,
+     "reach_rate": 0.714286,
+     "engagement_rate": 0.714286
+    },
+    "regional-language-first": {
+     "population": 8,
+     "reach": 3,
+     "engaged": 1,
+     "reach_rate": 0.375,
+     "engagement_rate": 0.125
+    },
+    "manga-first-readers": {
+     "population": 3,
+     "reach": 2,
+     "engaged": 2,
+     "reach_rate": 0.666667,
+     "engagement_rate": 0.666667
+    },
+    "casual-streaming-viewers": {
+     "population": 7,
+     "reach": 4,
+     "engaged": 2,
+     "reach_rate": 0.571429,
+     "engagement_rate": 0.285714
+    },
+    "film-event-audiences": {
+     "population": 8,
+     "reach": 3,
+     "engaged": 0,
+     "reach_rate": 0.375,
+     "engagement_rate": 0.0
+    }
+   },
+   "per_language": {
+    "en": {
+     "reach": 9,
+     "engaged": 5,
+     "engagement_rate": 0.555556
+    },
+    "hi": {
+     "reach": 6,
+     "engaged": 5,
+     "engagement_rate": 0.833333
+    },
+    "ja": {
+     "reach": 4,
+     "engaged": 3,
+     "engagement_rate": 0.75
+    },
+    "ta": {
+     "reach": 0,
+     "engaged": 0,
+     "engagement_rate": 0.0
+    },
+    "te": {
+     "reach": 3,
+     "engaged": 2,
+     "engagement_rate": 0.666667
+    }
+   },
+   "graph": {
+    "nodes": 40,
+    "edges": 111,
+    "degree_m": 3
+   },
+   "duration_ms": 0,
+   "variability": {
+    "repetitions": 5,
+    "seeds": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ],
+    "engagement_rate": {
+     "mean": 0.49,
+     "std": 0.083066,
+     "min": 0.375,
+     "max": 0.625
+    },
+    "reach_rate": {
+     "mean": 0.685,
+     "std": 0.100747,
+     "min": 0.55,
+     "max": 0.85
+    },
+    "shares_total": {
+     "mean": 17.0,
+     "std": 4.816638,
+     "min": 12,
+     "max": 26
+    },
+    "data_label": "simulated"
+   }
+  },
+  {
+   "id": "regional-dub",
+   "label": "Regional-language strategy: + Hindi, Tamil, Telugu dubs",
+   "description": "Mirrors the observed release strategy: Hindi/Tamil/Telugu dubs added on top of the baseline (the actual Infinity Castle India release carried Japanese, Hindi, Tamil and Telugu).",
+   "counterfactual": false,
+   "languages_available": [
+    "ja",
+    "en",
+    "hi",
+    "ta",
+    "te"
+   ],
+   "marketing_reach": {
+    "streaming": 1.0,
+    "social": 1.0,
+    "theatrical": 1.0,
+    "search": 1.0,
+    "tv": 1.0
+   },
+   "seed": 42,
+   "data_label": "simulated",
+   "totals": {
+    "reach": 24,
+    "reach_rate": 0.6,
+    "viewed": 23,
+    "view_rate": 0.575,
+    "engaged": 18,
+    "engagement_rate": 0.45,
+    "shares_total": 20,
+    "discussions_total": 27,
+    "shares_per_agent": 0.5,
+    "data_label": "simulated"
+   },
+   "per_round": [
+    {
+     "round": 0,
+     "actions": {
+      "discover": 11,
+      "view_info": 8,
+      "express_interest": 3,
+      "share": 2,
+      "discuss": 1,
+      "ignore": 29
+     },
+     "cumulative_aware": 11,
+     "cumulative_viewed": 8,
+     "cumulative_engaged": 3,
+     "avg_wom_exposure": 0.027593
+    },
+    {
+     "round": 1,
+     "actions": {
+      "discover": 3,
+      "view_info": 4,
+      "express_interest": 6,
+      "share": 3,
+      "discuss": 5,
+      "ignore": 31
+     },
+     "cumulative_aware": 14,
+     "cumulative_viewed": 12,
+     "cumulative_engaged": 9,
+     "avg_wom_exposure": 0.129549
+    },
+    {
+     "round": 2,
+     "actions": {
+      "discover": 3,
+      "view_info": 3,
+      "express_interest": 2,
+      "share": 3,
+      "discuss": 2,
+      "ignore": 32
+     },
+     "cumulative_aware": 17,
+     "cumulative_viewed": 15,
+     "cumulative_engaged": 11,
+     "avg_wom_exposure": 0.169222
+    },
+    {
+     "round": 3,
+     "actions": {
+      "discover": 4,
+      "view_info": 4,
+      "express_interest": 1,
+      "share": 3,
+      "discuss": 6,
+      "ignore": 27
+     },
+     "cumulative_aware": 21,
+     "cumulative_viewed": 19,
+     "cumulative_engaged": 12,
+     "avg_wom_exposure": 0.18052
+    },
+    {
+     "round": 4,
+     "actions": {
+      "discover": 1,
+      "view_info": 2,
+      "express_interest": 5,
+      "share": 4,
+      "discuss": 5,
+      "ignore": 25
+     },
+     "cumulative_aware": 22,
+     "cumulative_viewed": 21,
+     "cumulative_engaged": 17,
+     "avg_wom_exposure": 0.274526
+    },
+    {
+     "round": 5,
+     "actions": {
+      "discover": 2,
+      "view_info": 2,
+      "express_interest": 1,
+      "share": 5,
+      "discuss": 8,
+      "ignore": 28
+     },
+     "cumulative_aware": 24,
+     "cumulative_viewed": 23,
+     "cumulative_engaged": 18,
+     "avg_wom_exposure": 0.289333
+    }
+   ],
+   "per_segment": {
+    "mainstream-anime-fans": {
+     "population": 14,
+     "reach": 10,
+     "engaged": 10,
+     "reach_rate": 0.714286,
+     "engagement_rate": 0.714286
+    },
+    "regional-language-first": {
+     "population": 8,
+     "reach": 4,
+     "engaged": 3,
+     "reach_rate": 0.5,
+     "engagement_rate": 0.375
+    },
+    "manga-first-readers": {
+     "population": 3,
+     "reach": 2,
+     "engaged": 2,
+     "reach_rate": 0.666667,
+     "engagement_rate": 0.666667
+    },
+    "casual-streaming-viewers": {
+     "population": 7,
+     "reach": 4,
+     "engaged": 3,
+     "reach_rate": 0.571429,
+     "engagement_rate": 0.428571
+    },
+    "film-event-audiences": {
+     "population": 8,
+     "reach": 4,
+     "engaged": 0,
+     "reach_rate": 0.5,
+     "engagement_rate": 0.0
+    }
+   },
+   "per_language": {
+    "en": {
+     "reach": 11,
+     "engaged": 7,
+     "engagement_rate": 0.636364
+    },
+    "hi": {
+     "reach": 6,
+     "engaged": 6,
+     "engagement_rate": 1.0
+    },
+    "ja": {
+     "reach": 4,
+     "engaged": 3,
+     "engagement_rate": 0.75
+    },
+    "ta": {
+     "reach": 0,
+     "engaged": 0,
+     "engagement_rate": 0.0
+    },
+    "te": {
+     "reach": 3,
+     "engaged": 2,
+     "engagement_rate": 0.666667
+    }
+   },
+   "graph": {
+    "nodes": 40,
+    "edges": 111,
+    "degree_m": 3
+   },
+   "duration_ms": 0,
+   "variability": {
+    "repetitions": 5,
+    "seeds": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ],
+    "engagement_rate": {
+     "mean": 0.605,
+     "std": 0.084261,
+     "min": 0.45,
+     "max": 0.7
+    },
+    "reach_rate": {
+     "mean": 0.74,
+     "std": 0.096954,
+     "min": 0.6,
+     "max": 0.9
+    },
+    "shares_total": {
+     "mean": 29.6,
+     "std": 7.657676,
+     "min": 20,
+     "max": 39
+    },
+    "data_label": "simulated"
+   }
+  }
+ ],
+ "comparisons": [
+  {
+   "baseline_id": "baseline-subs-only",
+   "scenario_id": "regional-dub",
+   "scenario_label": "Regional-language strategy: + Hindi, Tamil, Telugu dubs",
+   "is_counterfactual_baseline": true,
+   "paired_seeds": true,
+   "repetitions": 5,
+   "metrics": {
+    "reach_rate": {
+     "baseline_mean": 0.685,
+     "comparison_mean": 0.74,
+     "delta_mean": 0.055,
+     "delta_std": 0.036742,
+     "delta_min": 0.025,
+     "delta_max": 0.125,
+     "relative_lift_mean": 0.084251,
+     "repetitions": 5
+    },
+    "engagement_rate": {
+     "baseline_mean": 0.49,
+     "comparison_mean": 0.605,
+     "delta_mean": 0.115,
+     "delta_std": 0.051478,
+     "delta_min": 0.075,
+     "delta_max": 0.2,
+     "relative_lift_mean": 0.244618,
+     "repetitions": 5
+    },
+    "view_rate": {
+     "baseline_mean": 0.63,
+     "comparison_mean": 0.68,
+     "delta_mean": 0.05,
+     "delta_std": 0.031623,
+     "delta_min": 0.025,
+     "delta_max": 0.1,
+     "relative_lift_mean": 0.08671,
+     "repetitions": 5
+    },
+    "shares_total": {
+     "baseline_mean": 17.0,
+     "comparison_mean": 29.6,
+     "delta_mean": 12.6,
+     "delta_std": 7.172168,
+     "delta_min": 3,
+     "delta_max": 25,
+     "relative_lift_mean": 0.818719,
+     "repetitions": 5
+    },
+    "discussions_total": {
+     "baseline_mean": 17.2,
+     "comparison_mean": 29.6,
+     "delta_mean": 12.4,
+     "delta_std": 2.87054,
+     "delta_min": 9,
+     "delta_max": 16,
+     "relative_lift_mean": 0.816444,
+     "repetitions": 5
+    }
+   },
+   "per_segment_engagement_delta": {
+    "casual-streaming-viewers": {
+     "engagement_rate_delta_mean": 0.103297,
+     "delta_std": 0.090244
+    },
+    "film-event-audiences": {
+     "engagement_rate_delta_mean": 0.15,
+     "delta_std": 0.2
+    },
+    "mainstream-anime-fans": {
+     "engagement_rate_delta_mean": 0.028571,
+     "delta_std": 0.057143
+    },
+    "manga-first-readers": {
+     "engagement_rate_delta_mean": 0.0,
+     "delta_std": 0.0
+    },
+    "regional-language-first": {
+     "engagement_rate_delta_mean": 0.28026,
+     "delta_std": 0.07788
+    }
+   },
+   "drivers": [
+    {
+     "parameter": "languages_available",
+     "baseline": [
+      "ja",
+      "en"
+     ],
+     "comparison": [
+      "ja",
+      "en",
+      "hi",
+      "ta",
+      "te"
+     ],
+     "added": [
+      "hi",
+      "ta",
+      "te"
+     ],
+     "removed": [],
+     "engine_assumption": "dub_lift applied to agents whose primary language is regional and newly offered (simulation.dub_lift); language-fit modulation of discovery/interest (constants in adapters/abm_engine.py)."
+    }
+   ]
+  }
+ ],
+ "assumptions": [
+  {
+   "id": "dub-lift",
+   "statement": "Agents whose primary language is a regional language newly offered by a scenario receive a multiplicative lift on interest, share and discuss probabilities (simulation.dub_lift).",
+   "role": "drives the regional-dubbing scenario effect",
+   "type": "assumption",
+   "value": {
+    "dub_lift": 1.6
+   },
+   "data_label": "simulated",
+   "evidence_ids": []
+  },
+  {
+   "id": "language-fit-modulation",
+   "statement": "Discovery probability scales with language fit via 0.7 + 0.3*fit; interest scales via 0.25 + 0.75*fit; agents without any offered-language fit fall back to a 0.25 subtitle-tolerance floor.",
+   "role": "translates language availability into behaviour",
+   "type": "assumption",
+   "value": {
+    "discovery": "0.7 + 0.3*fit",
+    "interest": "0.25 + 0.75*fit",
+    "floor": 0.25
+   },
+   "data_label": "simulated",
+   "evidence_ids": []
+  },
+  {
+   "id": "announcement-boost",
+   "statement": "Round 0 models a release announcement: discovery probability is multiplied by simulation.announcement_boost in the first round only.",
+   "role": "release-attention spike",
+   "type": "assumption",
+   "value": {
+    "announcement_boost": 2.0
+   },
+   "data_label": "simulated",
+   "evidence_ids": []
+  },
+  {
+   "id": "word-of-mouth",
+   "statement": "Discovery probability is multiplied by (1 + simulation.word_of_mouth_boost * engaged-neighbour share) over a Barabasi-Albert preferential-attachment graph.",
+   "role": "information diffusion structure",
+   "type": "assumption",
+   "value": {
+    "word_of_mouth_boost": 0.8,
+    "network_degree": 3
+   },
+   "data_label": "simulated",
+   "evidence_ids": []
+  },
+  {
+   "id": "population-heterogeneity",
+   "statement": "Personal susceptibility ~ U(0.7, 1.3) and vocalness ~ U(0.75, 1.25) are unexplained heterogeneity drawn per agent from the seeded stream.",
+   "role": "within-segment variance",
+   "type": "assumption",
+   "value": {
+    "susceptibility": "U(0.7,1.3)",
+    "vocalness": "U(0.75,1.25)"
+   },
+   "data_label": "simulated",
+   "evidence_ids": []
+  },
+  {
+   "id": "segment-parameters",
+   "statement": "Segment sizes, base_interest, discovery_base, view/share/discuss probabilities, language and channel affinities are supplied by the config and treated as hypotheses; each segment lists its evidence_ids.",
+   "role": "audience model",
+   "type": "assumption",
+   "value": {},
+   "data_label": "inferred",
+   "evidence_ids": [
+    "animesurvey-2025-india-share",
+    "ann-muse-hindi-launch",
+    "crunchyroll-dubs-may-2024",
+    "forbes-nrg-india-penetration",
+    "ign-infinity-castle-opening",
+    "imdb-crunchyroll-13-dubs-2024",
+    "imdb-infinity-castle-india-release",
+    "kenresearch-india-180m-fans",
+    "koyoharu-opening-day-record",
+    "muse-india-channel-scale",
+    "statista-crunchyroll-subs",
+    "wiki-infinity-castle-worldwide"
+   ]
+  }
+ ],
+ "source_references": [
+  {
+   "id": "kenresearch-india-180m-fans",
+   "title": "India Anime Market Size, Share & Forecast",
+   "url": "https://www.kenresearch.com/industry-reports/india-anime-market",
+   "publisher": "Ken Research",
+   "date": "2025",
+   "type": "market_report",
+   "region": "India",
+   "label": "observed",
+   "quality": "medium",
+   "tags": [
+    "market-size",
+    "audience",
+    "under-monetized"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "forbes-nrg-india-penetration",
+   "title": "One In 5 Americans Now Watches Anime According To New Global Survey",
+   "url": "https://www.forbes.com/sites/robsalkowitz/2026/05/26/one-in-5-americans-now-watches-anime-according-to-new-global-survey",
+   "publisher": "Forbes (coverage of NRG global anime survey)",
+   "date": "2026-05-26",
+   "type": "survey",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "penetration",
+    "growth",
+    "survey"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "japantimes-nrg-method",
+   "title": "Anime is winning over a new generation of fans",
+   "url": "https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/anime-survey-watching",
+   "publisher": "The Japan Times (NRG survey coverage)",
+   "date": "2026-10-09",
+   "type": "survey",
+   "region": "global",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "survey-method",
+    "india-included"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "markntel-india-cagr",
+   "title": "India Anime Market Research Report: Forecast (2024-2030)",
+   "url": "https://www.marknteladvisors.com/research-library/india-anime-market.html",
+   "publisher": "MarkNtel Advisors",
+   "date": "2024",
+   "type": "market_report",
+   "region": "India",
+   "label": "observed",
+   "quality": "medium",
+   "tags": [
+    "growth-rate",
+    "forecast"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "imdb-crunchyroll-13-dubs-2024",
+   "title": "Crunchyroll Reveals Hindi, Tamil & Telugu Dub Release Dates",
+   "url": "https://www.imdb.com/news/ni64418812",
+   "publisher": "IMDb News",
+   "date": "2024-02",
+   "type": "news",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "dubbing",
+    "hindi",
+    "tamil",
+    "telugu",
+    "streaming"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "crunchyroll-dubs-may-2024",
+   "title": "Dr. STONE, BLUE LOCK, Haikyu!! and More Hindi, Tamil and Telugu Dub Release Dates",
+   "url": "https://www.crunchyroll.com/news/announcements/2024/5/16/dr-stone-blue-lock-haikyu-hindi-tamil-telugu-dub-release-date",
+   "publisher": "Crunchyroll News (official)",
+   "date": "2024-05-16",
+   "type": "news",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "dubbing",
+    "hindi",
+    "tamil",
+    "telugu",
+    "shonen"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "crunchyroll-spring-2026-lineup",
+   "title": "Crunchyroll Spring 2026 Hindi, Tamil, Telugu Lineup REVEALED",
+   "url": "https://www.reddit.com/r/AnimeMirchi/comments/1s38xog/crunchyroll_spring_2026_hindi_tamil_telugu_lineup",
+   "publisher": "r/AnimeMirchi (community repost of official lineup)",
+   "date": "2026",
+   "type": "community",
+   "region": "India",
+   "label": "observed",
+   "quality": "low",
+   "tags": [
+    "dubbing",
+    "simulcast",
+    "community"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "imdb-infinity-castle-india-release",
+   "title": "Demon Slayer: Infinity Castle Box Office Collection India",
+   "url": "https://www.imdb.com/news/ni65479902",
+   "publisher": "IMDb News",
+   "date": "2025-09",
+   "type": "news",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "dubbing",
+    "theatrical",
+    "release-strategy",
+    "demon-slayer"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "ign-infinity-castle-opening",
+   "title": "Demon Slayer Infinity Castle Box Office In India Nears Rs 50 Crore As Weekend Collections Mount",
+   "url": "https://in.ign.com/demon-slayer-kimetsu-no-yaiba-infinity-castle/241500/news/demon-slayer-kimetsu-no-yaiba-infinity-castle-box-office-in-india-nears-rs50-crore-as-weekend-collec",
+   "publisher": "IGN India",
+   "date": "2025-09-15",
+   "type": "box_office",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "box-office",
+    "theatrical",
+    "demon-slayer"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "koyoharu-opening-day-record",
+   "title": "Demon Slayer: Infinity Castle storms the Indian box office with a massive $1.8 Million opening day collection",
+   "url": "https://www.facebook.com/jp.koyoharu/posts/647401988414721",
+   "publisher": "Official Demon Slayer (Kimetsu no Yaiba) Facebook page",
+   "date": "2025-09",
+   "type": "official",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "box-office",
+    "opening-day",
+    "record",
+    "demon-slayer"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "reddit-infinity-castle-day5",
+   "title": "Demon Slayer Infinity Castle collected around Rs 5 crore on day five in India, total Rs 57.25 crore",
+   "url": "https://www.reddit.com/r/boxoffice/comments/1njbc9w/",
+   "publisher": "r/boxoffice (community tracking)",
+   "date": "2025-09",
+   "type": "community",
+   "region": "India",
+   "label": "observed",
+   "quality": "low",
+   "tags": [
+    "box-office",
+    "tracking",
+    "demon-slayer"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "wiki-infinity-castle-worldwide",
+   "title": "Demon Slayer: Kimetsu no Yaiba \u2013 The Movie: Infinity Castle (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle",
+   "publisher": "Wikipedia (compiled from box office sources)",
+   "date": "2025",
+   "type": "news",
+   "region": "global",
+   "label": "observed",
+   "quality": "medium",
+   "tags": [
+    "worldwide",
+    "ip-momentum",
+    "demon-slayer"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "cbr-shinkai-hindi-dub",
+   "title": "Makoto Shinkai's Films Finally Coming to Crunchyroll (Suzume debuts with Hindi dub)",
+   "url": "https://www.cbr.com/crunchyroll-makoto-shinkai-movies-streaming-release-date",
+   "publisher": "CBR",
+   "date": "2025-12-03",
+   "type": "news",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "dubbing",
+    "hindi",
+    "streaming",
+    "suzume"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "reddit-suzume-india-gross",
+   "title": "Suzume has done a gross collection of Rs 3.79 crores at the Indian Box Office",
+   "url": "https://www.reddit.com/r/animeindian/comments/12y9szn/",
+   "publisher": "r/animeindian (community report)",
+   "date": "2023-04",
+   "type": "community",
+   "region": "India",
+   "label": "observed",
+   "quality": "low",
+   "tags": [
+    "box-office",
+    "baseline",
+    "subbed",
+    "suzume"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "muse-india-channel-scale",
+   "title": "Muse India YouTube channel (official, free & legal anime for India)",
+   "url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+   "publisher": "Muse India (Muse Communication)",
+   "date": "2026-10",
+   "type": "official",
+   "region": "India",
+   "label": "observed",
+   "quality": "medium",
+   "tags": [
+    "dubbing",
+    "hindi",
+    "free-tv",
+    "audience-scale"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "ann-muse-hindi-launch",
+   "title": "Muse Asia Launches New Muse Hindi Dub YouTube Channel",
+   "url": "https://www.animenewsnetwork.com/news/2026-05-29/muse-asia-launches-new-muse-hindi-dub-youtube-channel/.237931",
+   "publisher": "Anime News Network",
+   "date": "2026-05-29",
+   "type": "news",
+   "region": "India",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "dubbing",
+    "hindi",
+    "youtube",
+    "distribution"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "statista-crunchyroll-subs",
+   "title": "Number of Crunchyroll subscribers 2012-2026",
+   "url": "https://www.statista.com/statistics/594952/crunchyroll-users/",
+   "publisher": "Statista (compiled from Sony disclosures)",
+   "date": "2026-10-02",
+   "type": "market_report",
+   "region": "global",
+   "label": "observed",
+   "quality": "high",
+   "tags": [
+    "streaming",
+    "platform-scale",
+    "crunchyroll"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  },
+  {
+   "id": "animesurvey-2025-india-share",
+   "title": "Anime Survey 2025 Preliminary Results",
+   "url": "https://sites.google.com/site/animeresearch/past-results/anime-survey-2025-preliminary-results",
+   "publisher": "Anime Research (academic survey)",
+   "date": "2025",
+   "type": "survey",
+   "region": "global",
+   "label": "observed",
+   "quality": "low",
+   "tags": [
+    "survey",
+    "sample-size-caution",
+    "india"
+   ],
+   "retrieved_via": "web search (WebSearch)",
+   "retrieved_at": "2026-10-24"
+  }
+ ],
+ "limitations": [
+  {
+   "id": "not-a-forecast",
+   "statement": "Outputs are simulations of a hypothesised audience under explicit assumptions. They are NOT predictions of real awareness, revenue, viewership or streaming performance, and must never be presented as such.",
+   "severity": "critical"
+  },
+  {
+   "id": "synthetic-personas",
+   "statement": "Agents are stochastic-threshold actors parameterised by segment hypotheses. They do not represent real Indian consumers, and no survey responses were collected or fabricated.",
+   "severity": "critical"
+  },
+  {
+   "id": "segment-hypotheses",
+   "statement": "Audience segment sizes and behavioural parameters are modelling hypotheses informed (where noted) by cited public evidence, not measured demographics.",
+   "severity": "high"
+  },
+  {
+   "id": "engine-simplification",
+   "statement": "sakura-abm is a compact scenario model. Unlike OASIS/MiroFish LLM agents it cannot generate novel discourse; interaction structure (word-of-mouth over a preferential-attachment graph) is a simplifying assumption.",
+   "severity": "high"
+  },
+  {
+   "id": "no-independent-validation",
+   "statement": "Model outputs have not been validated against independent real-world observations; only internal sanity checks and ablation tests are performed.",
+   "severity": "high"
+  },
+  {
+   "id": "baseline-counterfactual",
+   "statement": "Scenario 'baseline-subs-only' is a counterfactual construct (labelled); it did not necessarily occur in the real world and is not derived from observed history.",
+   "severity": "high"
+  }
+ ],
+ "warnings": [],
+ "run_metadata": {
+  "engine": "sakura-abm",
+  "engine_version": "0.1.0",
+  "rng": "python.random.MersenneTwister (single stream, fixed consumption order)",
+  "python_version": "3.14.6",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "dependencies": "stdlib-only",
+  "agent_model": "stochastic-threshold actors with segment parameters (NOT LLM personas)",
+  "paired_design": true,
+  "agent_count": 40,
+  "rounds": 6,
+  "seeds": [
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "config_hash": "998c04165d5a0bc3",
+  "total_duration_ms": 7,
+  "generated_at": "2026-10-24T11:23:55+00:00"
+ }
+}

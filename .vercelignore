@@ -1,0 +1,12 @@
+# vercel uploads everything except this list (.vercelignore replaces .gitignore
+# for deployments — api/_backend MUST ship even though git ignores it)
+.git
+node_modules
+backend 111
+__pycache__
+.pytest_cache
+*.pyc
+.DS_Store
+tests/fixtures
+docs
+bun.lock

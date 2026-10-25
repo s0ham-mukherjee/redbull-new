@@ -1,0 +1,296 @@
+pages: 6
+=== PAGE 1 ===
+JA PA N E S E  I P  |  I N D I A  M A R K E T  I N T E L L I G E N C E   ·   T H A PA R  JA PA N  H AC K AT H O N  ·  G E E K  P I C T U R E S  G E E K- P S - 0 1
+Attention isn't opportunity: we turn India signals into evidence-backed IP decisions
+Brief: GEEK-PS-01, Predicting Indian Market Potential for Japanese Media Content Using Big Data. All capabilities shown are proposed. 1
+PROBLEM
+Signals about Japanese IP in India are scattered across search, 
+video, wiki and retail. Spikes look like demand but often fade; 
+licensors lack a disciplined way to decide what to investigate.
+USER & DECISION
+A licensing, distribution or merchandise lead at a Japanese 
+studio or licensor, or their India partner, deciding which IPs 
+deserve investigation, why, and what to test next.
+TWO ENGINES
+A · India Trend Radar
+Search momentum, persistence, 
+emerging topics, engagement, 
+regional/language signals from 
+permitted public sources
+B · IP Opportunity Engine
+Comparable IP, formats, audiences, 
+localization, availability & pricing, 
+competition, uncertainty, 
+experiments
+FROM SCATTERED SIGNALS TO A DECISION
+Search trends
+YouTube
+Wiki pageviews
+AniList (cond.)
+Retail checks
+Engines A + B
+corroborate · connect · challenge
+PER-CANDIDATE OUTPUT
+• Why it merits attention
+• Evidence + counter-evidence
+• India context, quality, unknowns
+• Action: pilot / investigate / wait / abstain
+• Experiment, success metric, invalidation
+WORKFLOW
+DISCOVER → CORROBORATE → CONNECT → ASSESS → CHALLENGE → TEST → MEASURE → IMPROVE
+Not another trend dashboard: every recommendation shows its evidence, its counter-evidence, and the next experiment to run.
+=== PAGE 2 ===
+W H Y  I T  M AT T E RS  ·  H OW  I T ' S  D I F F E R E N T
+Demand tools exist; what's missing is an evidence-to-decision workflow for Japanese IP in India
+Sources: JETRO 2026 report (jetro.go.jp, IPtestimport_india.pdf); Google Trends help (support.google.com/trends/answer/4365533); Hakuhodo India anime study (hakuhodoindia.com/news/anime-study, 14 Jul 2026); Variety, 18 Mar 2026; vendor 
+sites for Parrot Demand360 and Meltwater.
+2
+WHY IT MATTERS
+JETRO (2026): imports of Japanese IP goods into India are 
+currently very small, partly because import procedures (BIS 
+certification for some products, IEC, GST) are complex and 
+information is scarce.
+Implication: a candidate needs commercial-path evidence, 
+not just attention.
+DEMAND SIGNALS, NOT REVENUE
+Hakuhodo India (Jul 2026, n=1,200, 8 cities): 61.1% prefer dubbed 
+anime; 73.1% of them choose Hindi. Crunchyroll data via Variety 
+(Mar 2026): India watch time up 3.5x in a year.
+Google Trends is relative (0–100), not volume: one signal to 
+corroborate.
+Measures attention Counter-evidence Abstain option Next experiment India IP focus
+Google Trends Relative (0–100) – – – –
+Parrot Demand360 Cross-platform 
+demand – – – –
+Meltwater social listening Social mentions – – – –
+Manual research Ad hoc Ad hoc Ad hoc Ad hoc Possible
+Our proposal Corroborated signals Built in Built in Built in Core
+Comparison is about workflow scope, based on public product descriptions; we do not claim to be first to use AI for entertainment analytics.
+ILLUSTRATIVE EXAMPLE — HYPOTHETICAL IPs, NOT REAL DATA
+Candidate A
+Viral spike, short half-life
+→ INVESTIGATE or WAIT
+Candidate B
+Persistent attention + corroborating retail & 
+localization evidence
+→ PILOT
+Candidate C
+Looks promising, but evidence is thin
+→ ABSTAIN / collect data
+The value is not a higher score — it is knowing when to pilot, when to wait, and when the evidence is too weak to act.
+=== PAGE 3 ===
+P R O P O S E D  LO N G -T E R M  C A PA B I L I T Y  M A P  —  N OT  T H E  O N E-W E E K  B U I L D
+Groups A–D build the evidence base: data, IP graph, signal AI and India context
+All 80 capabilities are proposed modules of one platform, not implemented features. Highlighted = MVP subset (A1–A4, A7, B1, B5, D1–D3 = items 1–4, 7, 11, 15, 31–33). 3
+A · DATA & EVIDENCE
+1  Universal ingestion  · MVP
+Connectors for permitted sources
+2  Scheduled refresh  · MVP
+Timed, logged pulls
+3  Schema normalization  · MVP
+One shared data model
+4  Entity resolution  · MVP
+Match titles across sources
+5  Provenance ledger
+Source & time per datum
+6  Quality checks
+Validity and range tests
+7  Missingness handling  · MVP
+Missing ≠ zero
+8  Historical snapshots
+Reproducible past views
+9  Independent-source corroboration
+Agreement across sources
+10  Source reliability
+Per-source trust weight
+B · IP REGISTRY & GRAPH
+11  Canonical IP registry  · MVP
+One ID per franchise
+12  Ownership/rights graph
+Who holds which rights
+13  Adaptation graph
+Manga → anime → film links
+14  Product taxonomy
+Shared product categories
+15  Franchise embeddings  · MVP
+Similarity vectors
+16  Comparable-IP retrieval
+Find analog franchises
+17  Competitor/substitute graph
+Rival titles & products
+18  Lifecycle tracker
+Release & season phases
+19  Cross-category aftershock
+Spillover between categories
+20  Franchise digital twin
+Unified franchise state
+C · MULTIMODAL AI
+21  Multimodal feature fusion
+Combine signal types
+22  Temporal encoder
+Patterns over time
+23  Multilingual text encoder
+Indian languages + English
+24  Permitted image/video metadata
+Metadata only, as permitted
+25  Sentiment/emotion
+Tone of public comments
+26  Purchase-intent extraction
+"Where to buy" signals
+27  Cultural-resonance analysis
+Fit with local themes
+28  Cross-modal consistency
+Do signals agree?
+29  Weak-signal discovery
+Early, small trends
+30  Anomaly/manipulation detection
+Flag bots and spikes
+D · INDIA MARKET
+31  Opportunity atlas  · MVP
+Candidates by region
+32  Regional sample-size controls  · MVP
+Flag thin regional data
+33  Localization readiness  · MVP
+Dubs, subs, translations
+34  Retail/availability monitor
+Permitted listing checks
+35  Import/affordability analysis
+Duties, price points
+36  Release calendar
+Upcoming India releases
+37  Offline-to-online evidence bridge
+Events, stores ↔ online
+38  Regional gaps
+Interest without supply
+39  Awareness-to-purchase funnel
+Stage-wise evidence
+40  Local competitive landscape
+Rival IP in India
+Highlighted (vermilion outline) = proposed MVP subset. Everything else is target-state.
+=== PAGE 4 ===
+P R O P O S E D  LO N G -T E R M  C A PA B I L I T Y  M A P  —  N OT  T H E  O N E-W E E K  B U I L D
+Groups E–H turn evidence into calibrated forecasts, commercial tests and auditable decisions
+Proposed modules only; none are implemented. Highlighted = MVP subset (46, 49, 51, 55, 57, 63, 68, 72, 75, 76). 4
+E · Forecasting, Calibration & Model Reliability
+41  Category-Specific Forecasting
+42  Adaptive Model Router
+43  Forecast Ensemble
+44  Prediction Intervals and Quantiles
+45  Probability Calibration
+46  Temporal Backtesting  · MVP
+47  Forecast Disagreement Detector
+48  Distribution-Shift Detection
+49  Confidence and Abstention Engine  · MVP
+50  Forecast Autopsy
+F · Commercial & Strategy Intelligence
+51  Hype-versus-Money Engine  · MVP
+52  Price Elasticity Estimator
+53  Revenue Bridge
+54  Supply-Constrained Demand Detection
+55  Product-Gap Discovery  · MVP
+56  Launch Strategy Simulator
+57  Pilot-Launch Optimizer  · MVP
+58  Causal Impact Evaluation
+59  Portfolio Optimizer
+60  Licensing Opportunity Research
+G · Autonomous Research & Continuous 
+Operations
+61  Opportunity Discovery Agent
+62  Active Learning
+63  Evidence-Grounded Research Reports  · MVP
+64  Continuous Watchtower
+65  Source Drift Monitor
+66  Model Version Registry
+67  Forecast Change Log
+68  Counterfactual Challenge Mode  · MVP
+69  Human Review Queue
+70  Rights, Privacy and Compliance Controls
+H · Explainability, UX & Governance
+71  Executive Opportunity Dashboard
+72  Why This Prediction?  · MVP
+73  Interactive India Market Map
+74  Franchise Explorer
+75  Scenario Comparison Workspace  · MVP
+76  Evidence Audit View  · MVP
+77  Business Report Export
+78  Role-Based Workspaces
+79  Alerts and Watchlists
+80  Feedback and Decision Outcome Tracking
+These are 40 capabilities in the proposed long-term platform, not 40 separate AI models.
+=== PAGE 5 ===
+T EC H N I C A L  H EA R T
+A validated pipeline that ranks, forecasts only defined targets, and can abstain
+Index Sᵢ is a relative ranking, not a probability or revenue. Advanced models are proposed and adopted only if they beat baselines on future (held-out) data. 5
+PERMITTED EVIDENCE 
+SOURCES
+NORMALIZATION AND 
+PROVENANCE
+IP KNOWLEDGE GRAPH AND 
+TIME-ALIGNED FEATURES
+TEMPORAL AND MARKET 
+ANALYSIS
+TRANSPARENT SCORING OR A 
+DEFINED FORECAST
+EVIDENCE, COUNTER-
+EVIDENCE AND UNCERTAINTY
+RECOMMENDED BUSINESS 
+EXPERIMENT
+DATA REPRESENTATION
+X  ^(I×T×R×C×F)∈ ℝ
+I = IPs, T = time, R = regions, C = categories, F = features
+Observation mask M: missing ≠ zero  ·  Quality metadata Q
+Typed IP graph: adaptation-of, licensed-to, sold-by, competes-with — kept distinct
+Sᵢ = 100 × Σ  w  zᵢ   — a relative ranking, not a probability or revenueₖ ₖ ₖ
+THREE OUTPUTS, KEPT SEPARATE
+1. Opportunity assessment (relative, evidence-backed)
+2. Forecast — only where a defined target exists
+3. Action — pilot, investigate, wait, or abstain
+VALIDATION
+TARGET DEFINITION NAIVE BASELINE CHRONOLOGICAL HOLDOUT MODEL COMPARISON ABLATION AND ROBUSTNESS EVIDENCE AUDIT
+MVP (PROPOSED)
+Python, pandas/DuckDB, rolling features, regularized regression / gradient-boosted-tree baseline, 
+Streamlit UI
+TARGET STATE (PROPOSED)
+Adds sequence models, a GNN and multimodal fusion — only if they beat baselines on future data
+=== PAGE 6 ===
+P R O P O S E D  WO R K  ·  S E V E N - DAY  B U I L D
+In seven days we can ship a transparent MVP with tests, a claim audit and a rehearsed demo
+Plan is proposed; the 30–50 candidate dataset is a stretch target. Data use limited to permitted sources; AniList conditional on its terms for commercial use; YouTube Data API subject to its developer policies. 6
+DAY 1
+Lock decision, source 
+permissions, schema, 
+interfaces
+DAY 2
+IP registry, provenance ledger, 
+initial dataset (30–50 
+candidates, stretch)
+DAY 3
+Temporal features, transparent 
+scoring, baseline
+DAY 4
+UI, evidence retrieval, 
+comparison, uncertainty
+DAY 5
+Tests, claim audit, sensitivity, 
+baselines
+DAY 6
+Integrate, fix, deck and demo
+DAY 7
+Freeze, clean-run tests, 
+rehearse, fallback
+PARALLEL LANES
+Data
+Graph
+Modelling
+UI
+QA / audit
+RISKS & MITIGATIONS
+API terms / coverage
+→ Permitted sources only; conditional source list
+Sparse India data
+→ Regional sample-size controls and abstention
+Hype vs demand
+→ Trend half-life and independent corroboration
+No outcome labels
+→ No revenue claims; define the data needed
+The goal is not to predict success from hype. It is to turn fragmented market evidence into transparent, testable, and progressively better IP decisions.

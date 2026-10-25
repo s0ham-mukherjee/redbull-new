@@ -1,0 +1,13 @@
+# Core simulation subsystem: Python >=3.10 stdlib-only by design.
+# (Zero-dependency is a feature: teammates integrate with zero install friction.)
+
+# --- the real pipeline + greenlight engine (local bun worker AND vercel python functions) ---
+numpy>=2.0
+pandas>=2.2
+
+# --- development / testing only ---
+pytest>=7.0
+
+# --- optional, planned research pipeline (NOT required; see docs/RESEARCH_SOURCE_MAP.md) ---
+# agent-reach @ git+https://github.com/Panniantong/Agent-Reach   # MIT; credential-free channels only
+# google-api-python-client                                       # YouTube Data API v3 (official path)

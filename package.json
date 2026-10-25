@@ -1,0 +1,28 @@
+{
+  "name": "sakurascore-simulation",
+  "version": "0.1.0",
+  "description": "SakuraScore India — sakura-abm audience simulation engine, TypeScript port running on Bun + dot-matrix dashboard",
+  "module": "src/server.ts",
+  "scripts": {
+    "dev": "bun run src/server.ts",
+    "start": "bun run src/server.ts",
+    "test": "bun test src/engine.test.ts src/lab.test.ts",
+    "test:watch": "bun test --watch src/",
+    "parity:regen": "python3 -c \"import json,random,sys;sys.path.insert(0,'src');from sakurascore_sim.adapters.abm_engine import build_barabasi_albert;r=random.Random(42);mt={'random8':[r.random() for _ in range(8)]};r2=random.Random(42);mt['randrange6_n30']=[r2.randrange(30) for _ in range(6)];r3=random.Random(42);mt['randrange_n13']=[r3.randrange(13) for _ in range(4)];g=random.Random(42);mt['ba40m3_adj']=build_barabasi_albert(40,3,g);json.dump(mt,open('tests/fixtures/mt_reference.json','w'),indent=1);from sakurascore_sim.simulation.runner import run_simulation_from_file;json.dump(run_simulation_from_file('configs/example_experiment.json'),open('tests/fixtures/python_output.json','w'),indent=1)\"",
+    "sim:cli": "bun run src/cli.ts configs/example_experiment.json",
+    "test:e2e": "python3 -m pytest tests/e2e.py -q",
+    "audit": "npx --yes lighthouse@13.5.0 http://localhost:8787/ --output=json --output-path=/tmp/lh.json --quiet --chrome-flags=\"--headless=new\""
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22",
+    "axe-core": "4.10.2"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "type": "module",
+  "dependencies": {
+    "bun": "^1.4.4"
+  }
+}

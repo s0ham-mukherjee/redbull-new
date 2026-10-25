@@ -1,0 +1,988 @@
+{
+ "Attack on Titan": {
+  "status": "ok",
+  "article": "Attack on Titan",
+  "days": 731
+ },
+ "Demon Slayer: Kimetsu no Yaiba": {
+  "status": "ok",
+  "article": "Demon Slayer: Kimetsu no Yaiba",
+  "days": 731
+ },
+ "JUJUTSU KAISEN": {
+  "status": "ok",
+  "article": "Jujutsu Kaisen",
+  "days": 731
+ },
+ "Death Note": {
+  "status": "ok",
+  "article": "Death Note",
+  "days": 731
+ },
+ "My Hero Academia": {
+  "status": "ok",
+  "article": "My Hero Academia",
+  "days": 731
+ },
+ "Hunter x Hunter (2011)": {
+  "status": "ok",
+  "article": "Hunter x Hunter (2011) Version",
+  "days": 197
+ },
+ "One-Punch Man": {
+  "status": "ok",
+  "article": "One-Punch Man",
+  "days": 731
+ },
+ "ONE PIECE": {
+  "status": "ok",
+  "article": "One Piece",
+  "days": 731
+ },
+ "Tokyo Ghoul": {
+  "status": "ok",
+  "article": "Tokyo Ghoul",
+  "days": 731
+ },
+ "Attack on Titan Season 2": {
+  "status": "ok",
+  "article": "Attack on Titan season 2",
+  "days": 731
+ },
+ "Fullmetal Alchemist: Brotherhood": {
+  "status": "ok",
+  "article": "Fullmetal Alchemist: Brotherhood",
+  "days": 731
+ },
+ "Naruto": {
+  "status": "ok",
+  "article": "Naruto",
+  "days": 731
+ },
+ "Sword Art Online": {
+  "status": "ok",
+  "article": "Sword Art Online",
+  "days": 731
+ },
+ "A Silent Voice": {
+  "status": "ok",
+  "article": "A Silent Voice",
+  "days": 730
+ },
+ "Your Name.": {
+  "status": "ok",
+  "article": "Your Name",
+  "days": 731
+ },
+ "Attack on Titan Season 3": {
+  "status": "ok",
+  "article": "Attack on Titan season 3",
+  "days": 731
+ },
+ "My Hero Academia Season 2": {
+  "status": "ok",
+  "article": "My Hero Academia season 2",
+  "days": 731
+ },
+ "Attack on Titan Final Season": {
+  "status": "ok",
+  "article": "Attack on Titan: Final Season",
+  "days": 129
+ },
+ "Chainsaw Man": {
+  "status": "ok",
+  "article": "Chainsaw Man",
+  "days": 731
+ },
+ "The Promised Neverland": {
+  "status": "ok",
+  "article": "The Promised Neverland",
+  "days": 731
+ },
+ "Assassination Classroom": {
+  "status": "ok",
+  "article": "Assassination Classroom",
+  "days": 731
+ },
+ "Mob Psycho 100": {
+  "status": "ok",
+  "article": "Mob Psycho 100",
+  "days": 731
+ },
+ "Re:ZERO -Starting Life in Another World-": {
+  "status": "ok",
+  "article": "Re:ZERO -Starting Life in Another World-",
+  "days": 572
+ },
+ "Your lie in April": {
+  "status": "ok",
+  "article": "Your Lie in April",
+  "days": 731
+ },
+ "Attack on Titan Season 3 Part 2": {
+  "status": "no_article",
+  "article": null
+ },
+ "Naruto: Shippuden": {
+  "status": "ok",
+  "article": "Naruto: Shippuden",
+  "days": 731
+ },
+ "ERASED": {
+  "status": "ok",
+  "article": "Erased (manga)",
+  "days": 731
+ },
+ "My Hero Academia Season 3": {
+  "status": "ok",
+  "article": "My Hero Academia season 3",
+  "days": 731
+ },
+ "Steins;Gate": {
+  "status": "ok",
+  "article": "Steins;Gate",
+  "days": 731
+ },
+ "Black Clover": {
+  "status": "ok",
+  "article": "Black Clover",
+  "days": 731
+ },
+ "HAIKYU!!": {
+  "status": "ok",
+  "article": "Haikyu!!",
+  "days": 731
+ },
+ "Rascal Does Not Dream of Bunny Girl Senpai": {
+  "status": "ok",
+  "article": "Rascal Does Not Dream of Bunny Girl Senpai",
+  "days": 731
+ },
+ "SPY x FAMILY": {
+  "status": "ok",
+  "article": "Spy × Family",
+  "days": 731
+ },
+ "Kaguya-sama: Love is War": {
+  "status": "ok",
+  "article": "Kaguya-sama: Love Is War",
+  "days": 731
+ },
+ "Dr. STONE": {
+  "status": "ok",
+  "article": "Dr. Stone",
+  "days": 731
+ },
+ "Vinland Saga": {
+  "status": "ok",
+  "article": "Vinland Saga",
+  "days": 731
+ },
+ "Violet Evergarden": {
+  "status": "ok",
+  "article": "Violet Evergarden",
+  "days": 731
+ },
+ "Horimiya": {
+  "status": "ok",
+  "article": "Horimiya",
+  "days": 731
+ },
+ "Toradora!": {
+  "status": "ok",
+  "article": "Toradora!",
+  "days": 731
+ },
+ "No Game, No Life": {
+  "status": "ok",
+  "article": "No Game No Life",
+  "days": 731
+ },
+ "Akame ga Kill!": {
+  "status": "ok",
+  "article": "Akame ga Kill!",
+  "days": 731
+ },
+ "Noragami": {
+  "status": "ok",
+  "article": "Noragami",
+  "days": 731
+ },
+ "My Hero Academia Season 4": {
+  "status": "ok",
+  "article": "My Hero Academia season 4",
+  "days": 731
+ },
+ "The Seven Deadly Sins": {
+  "status": "ok",
+  "article": "The Seven Deadly Sins",
+  "days": 707
+ },
+ "Bleach": {
+  "status": "ok",
+  "article": "Bleach",
+  "days": 731
+ },
+ "KONOSUBA -God's blessing on this wonderful world!": {
+  "status": "ok",
+  "article": "KonoSuba: God's Blessing on This Wonderful World! Legend of Crimson",
+  "days": 731
+ },
+ "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train": {
+  "status": "ok",
+  "article": "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train",
+  "days": 731
+ },
+ "Code Geass: Lelouch of the Rebellion": {
+  "status": "ok",
+  "article": "Code Geass: Lelouch of the Rebellion",
+  "days": 731
+ },
+ "DARLING in the FRANXX": {
+  "status": "ok",
+  "article": "Darling in the Franxx",
+  "days": 731
+ },
+ "Parasyte -the maxim-": {
+  "status": "ok",
+  "article": "Parasyte -the maxim-",
+  "days": 729
+ },
+ "Neon Genesis Evangelion": {
+  "status": "ok",
+  "article": "Neon Genesis Evangelion",
+  "days": 731
+ },
+ "JUJUTSU KAISEN Season 2": {
+  "status": "ok",
+  "article": "Jujutsu Kaisen season 2",
+  "days": 731
+ },
+ "Frieren: Beyond Journey’s End": {
+  "status": "ok",
+  "article": "Frieren: Beyond Journey's End",
+  "days": 731
+ },
+ "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc": {
+  "status": "ok",
+  "article": "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc",
+  "days": 41
+ },
+ "Fire Force": {
+  "status": "ok",
+  "article": "Fire Force",
+  "days": 731
+ },
+ "Spirited Away": {
+  "status": "ok",
+  "article": "Spirited Away",
+  "days": 731
+ },
+ "JoJo's Bizarre Adventure (TV)": {
+  "status": "ok",
+  "article": "JoJo's Bizarre Adventure (TV series)",
+  "days": 731
+ },
+ "Cowboy Bebop": {
+  "status": "ok",
+  "article": "Cowboy Bebop",
+  "days": 731
+ },
+ "One-Punch Man Season 2": {
+  "status": "ok",
+  "article": "One-Punch Man season 2",
+  "days": 731
+ },
+ "Death Parade": {
+  "status": "ok",
+  "article": "Death Parade",
+  "days": 731
+ },
+ "That Time I Got Reincarnated as a Slime": {
+  "status": "ok",
+  "article": "That Time I Got Reincarnated as a Slime",
+  "days": 731
+ },
+ "Mushoku Tensei: Jobless Reincarnation": {
+  "status": "ok",
+  "article": "Mushoku Tensei: Jobless Reincarnation",
+  "days": 731
+ },
+ "The Rising of the Shield Hero": {
+  "status": "ok",
+  "article": "The Rising of the Shield Hero",
+  "days": 731
+ },
+ "Blue Exorcist": {
+  "status": "ok",
+  "article": "Blue Exorcist",
+  "days": 731
+ },
+ "Kakegurui": {
+  "status": "ok",
+  "article": "Kakegurui",
+  "days": 731
+ },
+ "Solo Leveling": {
+  "status": "ok",
+  "article": "Solo Leveling",
+  "days": 731
+ },
+ "Sword Art Online II": {
+  "status": "ok",
+  "article": "Sword Art Online II",
+  "days": 731
+ },
+ "Mob Psycho 100 II": {
+  "status": "ok",
+  "article": "Mob Psycho 100",
+  "days": 731
+ },
+ "Classroom of the Elite": {
+  "status": "ok",
+  "article": "Classroom of the Elite",
+  "days": 731
+ },
+ "Tokyo Revengers": {
+  "status": "ok",
+  "article": "Tokyo Revengers",
+  "days": 731
+ },
+ "Attack on Titan Final Season Part 2": {
+  "status": "no_article",
+  "article": null
+ },
+ "Angel Beats!": {
+  "status": "ok",
+  "article": "Angel Beats!",
+  "days": 731
+ },
+ "JUJUTSU KAISEN 0": {
+  "status": "ok",
+  "article": "Jujutsu Kaisen 0 (film)",
+  "days": 731
+ },
+ "Kaguya-sama: Love is War?": {
+  "status": "ok",
+  "article": "Kaguya-sama: Love Is War?",
+  "days": 731
+ },
+ "Charlotte": {
+  "status": "ok",
+  "article": "Charlotte",
+  "days": 731
+ },
+ "My Dress-Up Darling": {
+  "status": "ok",
+  "article": "My Dress-Up Darling",
+  "days": 731
+ },
+ "The Future Diary": {
+  "status": "ok",
+  "article": "The Future Diary",
+  "days": 649
+ },
+ "Bungo Stray Dogs": {
+  "status": "ok",
+  "article": "Bungo Stray Dogs",
+  "days": 731
+ },
+ "My Hero Academia Season 5": {
+  "status": "ok",
+  "article": "My Hero Academia season 5",
+  "days": 731
+ },
+ "Kill la Kill": {
+  "status": "ok",
+  "article": "Kill la Kill",
+  "days": 731
+ },
+ "Tokyo Ghoul √A": {
+  "status": "ok",
+  "article": "Tokyo Ghoul √A",
+  "days": 731
+ },
+ "Made in Abyss": {
+  "status": "ok",
+  "article": "Made in Abyss",
+  "days": 731
+ },
+ "Overlord": {
+  "status": "ok",
+  "article": "Overlord",
+  "days": 731
+ },
+ "Food Wars!": {
+  "status": "ok",
+  "article": "Food Wars!: Shokugeki no Soma",
+  "days": 731
+ },
+ "HAIKYU!! 2nd Season": {
+  "status": "no_article",
+  "article": null
+ },
+ "Is It Wrong to Try to Pick Up Girls in a Dungeon?": {
+  "status": "ok",
+  "article": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "days": 731
+ },
+ "Cyberpunk: Edgerunners": {
+  "status": "ok",
+  "article": "Cyberpunk: Edgerunners",
+  "days": 731
+ },
+ "The Devil is a Part-Timer!": {
+  "status": "ok",
+  "article": "The Devil Is a Part-Timer!",
+  "days": 731
+ },
+ "Soul Eater": {
+  "status": "ok",
+  "article": "Soul Eater",
+  "days": 731
+ },
+ "Anohana: The Flower We Saw That Day": {
+  "status": "ok",
+  "article": "Anohana: The Flower We Saw That Day",
+  "days": 731
+ },
+ "DAN DA DAN": {
+  "status": "ok",
+  "article": "Dandadan",
+  "days": 731
+ },
+ "Another": {
+  "status": "ok",
+  "article": "Another",
+  "days": 731
+ },
+ "My Teen Romantic Comedy SNAFU": {
+  "status": "ok",
+  "article": "My Teen Romantic Comedy SNAFU",
+  "days": 731
+ },
+ "Re:ZERO -Starting Life in Another World- Season 2": {
+  "status": "ok",
+  "article": "Re:Zero − Starting Life in Another World (season 2)",
+  "days": 691
+ },
+ "Gurren Lagann": {
+  "status": "ok",
+  "article": "Gurren Lagann",
+  "days": 731
+ },
+ "Fairy Tail": {
+  "status": "ok",
+  "article": "Fairy Tail",
+  "days": 731
+ },
+ "KONOSUBA -God's blessing on this wonderful world! 2": {
+  "status": "ok",
+  "article": "KonoSuba: God's Blessing on This Wonderful World! Legend of Crimson",
+  "days": 731
+ },
+ "I Want to Eat Your Pancreas": {
+  "status": "ok",
+  "article": "I Want to Eat Your Pancreas",
+  "days": 731
+ },
+ "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc": {
+  "status": "ok",
+  "article": "Demon Slayer: Kimetsu no Yaiba - Swordsmith Village Arc",
+  "days": 58
+ },
+ "Dororo": {
+  "status": "ok",
+  "article": "Dororo",
+  "days": 731
+ },
+ "Assassination Classroom Second Season": {
+  "status": "ok",
+  "article": "Assassination Classroom: Second Season",
+  "days": 457
+ },
+ "Hell’s Paradise": {
+  "status": "ok",
+  "article": "Hell's Paradise: Jigokuraku",
+  "days": 731
+ },
+ "Howl‘s Moving Castle": {
+  "status": "ok",
+  "article": "Howl's Moving Castle (film)",
+  "days": 731
+ },
+ "Code Geass: Lelouch of the Rebellion R2": {
+  "status": "ok",
+  "article": "Code Geass: Lelouch of the Rebellion R2",
+  "days": 729
+ },
+ "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc": {
+  "status": "ok",
+  "article": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
+  "days": 50
+ },
+ "HAIKYU!! 3rd Season": {
+  "status": "no_article",
+  "article": null
+ },
+ "The Disastrous Life of Saiki K.": {
+  "status": "ok",
+  "article": "The Disastrous Life of Saiki K.",
+  "days": 731
+ },
+ "Weathering With You": {
+  "status": "ok",
+  "article": "Weathering with You",
+  "days": 731
+ },
+ "PSYCHO-PASS": {
+  "status": "ok",
+  "article": "Psycho-Pass",
+  "days": 731
+ },
+ "Love, Chunibyo & Other Delusions": {
+  "status": "ok",
+  "article": "Love, Chunibyo & Other Delusions",
+  "days": 731
+ },
+ "Devilman Crybaby": {
+  "status": "ok",
+  "article": "Devilman Crybaby",
+  "days": 731
+ },
+ "Hyouka": {
+  "status": "ok",
+  "article": "Hyouka",
+  "days": 731
+ },
+ "Fate/Zero": {
+  "status": "ok",
+  "article": "Fate/Zero",
+  "days": 731
+ },
+ "JoJo's Bizarre Adventure: Stardust Crusaders": {
+  "status": "ok",
+  "article": "JoJo's Bizarre Adventure: Stardust Crusaders",
+  "days": 731
+ },
+ "Monster": {
+  "status": "ok",
+  "article": "Monster",
+  "days": 731
+ },
+ "Bakemonogatari": {
+  "status": "ok",
+  "article": "Bakemonogatari",
+  "days": 731
+ },
+ "Tower of God": {
+  "status": "ok",
+  "article": "Tower of God",
+  "days": 731
+ },
+ "Dr. STONE: STONE WARS": {
+  "status": "ok",
+  "article": "Dr. Stone: Stone Wars",
+  "days": 619
+ },
+ "The Apothecary Diaries": {
+  "status": "ok",
+  "article": "The Apothecary Diaries",
+  "days": 731
+ },
+ "OSHI NO KO": {
+  "status": "ok",
+  "article": "Oshi no Ko",
+  "days": 731
+ },
+ "SPY x FAMILY Cour 2": {
+  "status": "no_article",
+  "article": null
+ },
+ "Miss Kobayashi's Dragon Maid": {
+  "status": "ok",
+  "article": "Miss Kobayashi's Dragon Maid",
+  "days": 731
+ },
+ "Seraph of the End: Vampire Reign": {
+  "status": "ok",
+  "article": "Seraph of the End: Vampire Reign",
+  "days": 329
+ },
+ "Wotakoi: Love is Hard for Otaku": {
+  "status": "ok",
+  "article": "Wotakoi: Love Is Hard for Otaku",
+  "days": 731
+ },
+ "BLUE LOCK": {
+  "status": "ok",
+  "article": "Blue Lock",
+  "days": 731
+ },
+ "Mushoku Tensei: Jobless Reincarnation Cour 2": {
+  "status": "no_article",
+  "article": null
+ },
+ "Puella Magi Madoka Magica": {
+  "status": "ok",
+  "article": "Puella Magi Madoka Magica",
+  "days": 731
+ },
+ "86 EIGHTY-SIX": {
+  "status": "no_article",
+  "article": null
+ },
+ "The Quintessential Quintuplets": {
+  "status": "ok",
+  "article": "The Quintessential Quintuplets",
+  "days": 731
+ },
+ "That Time I Got Reincarnated as a Slime Season 2": {
+  "status": "ok",
+  "article": "That Time I Got Reincarnated as a Slime season 2",
+  "days": 731
+ },
+ "Komi Can’t Communicate": {
+  "status": "ok",
+  "article": "Komi Can't Communicate",
+  "days": 731
+ },
+ "The Promised Neverland Season 2": {
+  "status": "ok",
+  "article": "The Promised Neverland season 2",
+  "days": 731
+ },
+ "The Eminence in Shadow": {
+  "status": "ok",
+  "article": "The Eminence in Shadow",
+  "days": 731
+ },
+ "To Your Eternity": {
+  "status": "ok",
+  "article": "To Your Eternity",
+  "days": 731
+ },
+ "JoJo's Bizarre Adventure: Diamond is Unbreakable": {
+  "status": "ok",
+  "article": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+  "days": 731
+ },
+ "High School DxD": {
+  "status": "ok",
+  "article": "High School DxD",
+  "days": 731
+ },
+ "Solo Leveling Season 2 -Arise from the Shadow-": {
+  "status": "no_article",
+  "article": null
+ },
+ "Fruits Basket (2019)": {
+  "status": "ok",
+  "article": "Fruits Basket (2019 TV series)",
+  "days": 731
+ },
+ "Re:ZERO -Starting Life in Another World- Season 2 Part 2": {
+  "status": "ok",
+  "article": "Re:Zero − Starting Life in Another World season 2",
+  "days": 691
+ },
+ "Noragami Aragoto": {
+  "status": "ok",
+  "article": "Noragami Aragoto",
+  "days": 672
+ },
+ "BANANA FISH": {
+  "status": "ok",
+  "article": "Banana Fish",
+  "days": 731
+ },
+ "Rent-a-Girlfriend": {
+  "status": "ok",
+  "article": "Rent-A-Girlfriend",
+  "days": 731
+ },
+ "Tokyo Ghoul:re": {
+  "status": "ok",
+  "article": "Tokyo Ghoul:re",
+  "days": 730
+ },
+ "GOBLIN SLAYER": {
+  "status": "ok",
+  "article": "Goblin Slayer",
+  "days": 731
+ },
+ "Princess Mononoke": {
+  "status": "ok",
+  "article": "Princess Mononoke",
+  "days": 731
+ },
+ "Fire Force Season 2": {
+  "status": "ok",
+  "article": "Fire Force season 2",
+  "days": 731
+ },
+ "JoJo's Bizarre Adventure: Golden Wind": {
+  "status": "ok",
+  "article": "JoJo's Bizarre Adventure: Golden Wind",
+  "days": 731
+ },
+ "Clannad": {
+  "status": "ok",
+  "article": "Clannad",
+  "days": 731
+ },
+ "The God of High School": {
+  "status": "ok",
+  "article": "The God of High School",
+  "days": 731
+ },
+ "Gintama": {
+  "status": "ok",
+  "article": "Gintama",
+  "days": 731
+ },
+ "HAIKYU!! TO THE TOP": {
+  "status": "no_article",
+  "article": null
+ },
+ "Durarara!!": {
+  "status": "ok",
+  "article": "Durarara!!",
+  "days": 731
+ },
+ "Kaguya-sama: Love is War -Ultra Romantic-": {
+  "status": "ok",
+  "article": "Kaguya-sama: Love Is War – Ultra Romantic",
+  "days": 731
+ },
+ "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt": {
+  "status": "no_article",
+  "article": null
+ },
+ "MASHLE: MAGIC AND MUSCLES": {
+  "status": "ok",
+  "article": "Mashle: Magic and Muscles",
+  "days": 731
+ },
+ "Terror in Resonance": {
+  "status": "ok",
+  "article": "Terror in Resonance",
+  "days": 731
+ },
+ "Sword Art Online: Alicization": {
+  "status": "ok",
+  "article": "Sword Art Online: Alicization",
+  "days": 731
+ },
+ "Maid-Sama!": {
+  "status": "ok",
+  "article": "Maid Sama!",
+  "days": 731
+ },
+ "High School of the Dead": {
+  "status": "ok",
+  "article": "Highschool of the Dead",
+  "days": 731
+ },
+ "Kuroko's Basketball": {
+  "status": "ok",
+  "article": "Kuroko's Basketball",
+  "days": 731
+ },
+ "The Seven Deadly Sins: Revival of the Commandments": {
+  "status": "ok",
+  "article": "The Seven Deadly Sins: Revival of The Commandments",
+  "days": 731
+ },
+ "Kaiju No. 8": {
+  "status": "ok",
+  "article": "Kaiju No. 8",
+  "days": 731
+ },
+ "Call of the Night": {
+  "status": "ok",
+  "article": "Call of the Night",
+  "days": 731
+ },
+ "WONDER EGG PRIORITY": {
+  "status": "ok",
+  "article": "Wonder Egg Priority",
+  "days": 731
+ },
+ "My Neighbor Totoro": {
+  "status": "ok",
+  "article": "My Neighbor Totoro",
+  "days": 731
+ },
+ "Saga of Tanya the Evil": {
+  "status": "ok",
+  "article": "The Saga of Tanya the Evil",
+  "days": 731
+ },
+ "Samurai Champloo": {
+  "status": "ok",
+  "article": "Samurai Champloo",
+  "days": 731
+ },
+ "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc": {
+  "status": "ok",
+  "article": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
+  "days": 82
+ },
+ "K-ON!": {
+  "status": "ok",
+  "article": "K-On!",
+  "days": 731
+ },
+ "Beyond the Boundary": {
+  "status": "ok",
+  "article": "Beyond the Boundary",
+  "days": 731
+ },
+ "Vinland Saga Season 2": {
+  "status": "ok",
+  "article": "Vinland Saga season 2",
+  "days": 731
+ },
+ "My Teen Romantic Comedy SNAFU TOO!": {
+  "status": "ok",
+  "article": "My Teen Romantic Comedy SNAFU Too!",
+  "days": 731
+ },
+ "The Pet Girl of Sakurasou": {
+  "status": "ok",
+  "article": "The Pet Girl of Sakurasou",
+  "days": 731
+ },
+ "Elfen Lied": {
+  "status": "ok",
+  "article": "Elfen Lied",
+  "days": 731
+ },
+ "That Time I Got Reincarnated as a Slime Season 2 Part 2": {
+  "status": "ok",
+  "article": "That Time I Got Reincarnated as a Slime season 2",
+  "days": 731
+ },
+ "My Hero Academia Season 6": {
+  "status": "ok",
+  "article": "My Hero Academia season 6",
+  "days": 731
+ },
+ "Nisekoi": {
+  "status": "ok",
+  "article": "Nisekoi",
+  "days": 731
+ },
+ "DON'T TOY WITH ME, MISS NAGATORO": {
+  "status": "ok",
+  "article": "Don't Toy with Me, Miss Nagatoro",
+  "days": 731
+ },
+ "BOCCHI THE ROCK!": {
+  "status": "ok",
+  "article": "Bocchi the Rock!",
+  "days": 731
+ },
+ "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants": {
+  "status": "ok",
+  "article": "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
+  "days": 215
+ },
+ "Mushoku Tensei: Jobless Reincarnation Season 2": {
+  "status": "ok",
+  "article": "Mushoku Tensei: Jobless Reincarnation season 2",
+  "days": 59
+ },
+ "Overlord II": {
+  "status": "ok",
+  "article": "Overlord II",
+  "days": 731
+ },
+ "Golden Time": {
+  "status": "ok",
+  "article": "Golden Time",
+  "days": 731
+ },
+ "Fullmetal Alchemist": {
+  "status": "ok",
+  "article": "Fullmetal Alchemist",
+  "days": 731
+ },
+ "Mob Psycho 100 III": {
+  "status": "no_article",
+  "article": null
+ },
+ "Fate/stay night: Unlimited Blade Works": {
+  "status": "ok",
+  "article": "Fate/stay night: Unlimited Blade Works",
+  "days": 731
+ },
+ "JUJUTSU KAISEN Season 3: The Culling Game Part 1": {
+  "status": "no_article",
+  "article": null
+ },
+ "Classroom of the Elite Season 2": {
+  "status": "ok",
+  "article": "Classroom of the Elite season 2",
+  "days": 731
+ },
+ "My Little Monster": {
+  "status": "ok",
+  "article": "My Little Monster",
+  "days": 731
+ },
+ "Gachiakuta": {
+  "status": "ok",
+  "article": "Gachiakuta",
+  "days": 731
+ },
+ "Rascal Does Not Dream of a Dreaming Girl": {
+  "status": "ok",
+  "article": "Rascal Does Not Dream of a Dreaming Girl",
+  "days": 731
+ },
+ "Black Butler": {
+  "status": "ok",
+  "article": "Black Butler",
+  "days": 731
+ },
+ "ReLIFE": {
+  "status": "ok",
+  "article": "ReLIFE",
+  "days": 731
+ },
+ "Dragon Ball Z": {
+  "status": "ok",
+  "article": "Dragon Ball Z",
+  "days": 731
+ },
+ "The Irregular at Magic High School": {
+  "status": "ok",
+  "article": "The Irregular at Magic High School",
+  "days": 731
+ },
+ "Food Wars! The Second Plate": {
+  "status": "no_article",
+  "article": null
+ },
+ "Plastic Memories": {
+  "status": "ok",
+  "article": "Plastic Memories",
+  "days": 731
+ },
+ "Ouran High School Host Club": {
+  "status": "ok",
+  "article": "Ouran High School Host Club",
+  "days": 731
+ },
+ "BEASTARS": {
+  "status": "ok",
+  "article": "Beastars",
+  "days": 731
+ },
+ "HAIKYU!! TO THE TOP Part 2": {
+  "status": "no_article",
+  "article": null
+ }
+}

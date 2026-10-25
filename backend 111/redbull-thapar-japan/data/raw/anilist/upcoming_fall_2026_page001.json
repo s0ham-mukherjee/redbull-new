@@ -1,0 +1,933 @@
+{
+ "data": {
+  "Page": {
+   "pageInfo": {
+    "total": 11,
+    "currentPage": 1,
+    "lastPage": 1,
+    "hasNextPage": false,
+    "perPage": 50
+   },
+   "media": [
+    {
+     "id": 143103,
+     "idMal": 50668,
+     "title": {
+      "romaji": "Mahoutsukai no Yoru",
+      "english": "Witch on the Holy Night",
+      "native": "魔法使いの夜"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 20
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Magic",
+       "rank": 97,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 96,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Time Manipulation",
+       "rank": 92,
+       "isGeneralSpoiler": true
+      },
+      {
+       "name": "Witch",
+       "rank": 87,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 86,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 85,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kuudere",
+       "rank": 82,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Fairy Tale",
+       "rank": 80,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Philosophy",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Robots",
+       "rank": 57,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Werewolf",
+       "rank": 55,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Henshin",
+       "rank": 45,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ojou-sama",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 42396,
+     "favourites": 491,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "ufotable"
+       }
+      ]
+     },
+     "source": "VISUAL_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/143103"
+    },
+    {
+     "id": 200929,
+     "idMal": 62844,
+     "title": {
+      "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou",
+      "english": "The Apothecary Diaries: The Late Lady’s Treasure",
+      "native": "薬屋のひとりごと 亡妃の秘宝"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 12,
+      "day": 11
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 12,
+      "day": 11
+     },
+     "genres": [
+      "Drama",
+      "Mystery"
+     ],
+     "tags": [
+      {
+       "name": "Female Protagonist",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Medicine",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Politics",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Historical",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ancient China",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 31388,
+     "favourites": 304,
+     "trending": 11,
+     "studios": {
+      "nodes": [
+       {
+        "name": "TOHO animation STUDIO"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/200929"
+    },
+    {
+     "id": 213457,
+     "idMal": 64459,
+     "title": {
+      "romaji": "Fool Night",
+      "english": "Fool Night",
+      "native": "フールナイト"
+     },
+     "format": "ONA",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 26
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "tags": [
+      {
+       "name": "Class Struggle",
+       "rank": 84,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Eco-Horror",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Adult Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Body Horror",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Dystopian",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Suicide",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Work",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 24123,
+     "favourites": 163,
+     "trending": 2,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Shaft"
+       },
+       {
+        "name": "Sunrise"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213457"
+    },
+    {
+     "id": 178972,
+     "idMal": 59217,
+     "title": {
+      "romaji": "GROTESQQQUE",
+      "english": null,
+      "native": "GROTESQQQUE-グロテスク-"
+     },
+     "format": "MOVIE",
+     "episodes": 3,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 6
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 6
+     },
+     "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Monster Girl",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Video Games",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Anthology",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Aliens",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Vampire",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Gyaru",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Found Family",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Battle Royale",
+       "rank": 70,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "LGBTQ+ Themes",
+       "rank": 55,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Virtual World",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Yuri",
+       "rank": 52,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Survival",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cohabitation",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Post-Apocalyptic",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Cute Girls Doing Cute Things",
+       "rank": 40,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Motorcycles",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Kemonomimi",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 14303,
+     "favourites": 88,
+     "trending": 3,
+     "studios": {
+      "nodes": [
+       {
+        "name": "CloverWorks"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/178972"
+    },
+    {
+     "id": 190054,
+     "idMal": 61440,
+     "title": {
+      "romaji": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
+      "english": "My Happy Marriage Special Episodes",
+      "native": "わたしの幸せな結婚 特別篇"
+     },
+     "format": "SPECIAL",
+     "episodes": 3,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 25
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 25
+     },
+     "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Marriage",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shoujo",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Heterosexual",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Arranged Marriage",
+       "rank": 75,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Historical",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 10529,
+     "favourites": 93,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Kinema Citrus"
+       }
+      ]
+     },
+     "source": null,
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/190054"
+    },
+    {
+     "id": 203275,
+     "idMal": 63045,
+     "title": {
+      "romaji": "Demons' Crest",
+      "english": "Devils' Crest",
+      "native": "デモンズ・クレスト"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 6
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Video Games",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 53,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Death Game",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Urban Fantasy",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 5761,
+     "favourites": 39,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Production I.G"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/203275"
+    },
+    {
+     "id": 212539,
+     "idMal": 64266,
+     "title": {
+      "romaji": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "english": null,
+      "native": "タコピーの原罪 -ありがとう、また明日-"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 27
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 27
+     },
+     "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+     ],
+     "tags": [
+      {
+       "name": "Philosophy",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Denpa",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Bullying",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "School",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Aliens",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shapeshifting",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shounen",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Rural",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Child Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 5642,
+     "favourites": 50,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "ENISHIYA"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/212539"
+    },
+    {
+     "id": 157330,
+     "idMal": 57961,
+     "title": {
+      "romaji": "Rakuen Tsuihou: Kokoro no Resonance",
+      "english": null,
+      "native": "楽園追放 心のレゾナンス"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 13
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 13
+     },
+     "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+     ],
+     "tags": [
+      {
+       "name": "Robots",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Full CGI",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 4276,
+     "favourites": 37,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Toei Animation"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/157330"
+    },
+    {
+     "id": 206163,
+     "idMal": 63323,
+     "title": {
+      "romaji": "Soukou Kihei Votoms: Haiiro no Hexe",
+      "english": null,
+      "native": "装甲騎兵ボトムズ 灰色の魔女"
+     },
+     "format": "MOVIE",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 20
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 20
+     },
+     "genres": [
+      "Mecha",
+      "Sci-Fi"
+     ],
+     "tags": [
+      {
+       "name": "Real Robot",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 2306,
+     "favourites": 15,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Production I.G"
+       },
+       {
+        "name": "Sunrise"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/206163"
+    },
+    {
+     "id": 214536,
+     "idMal": 63938,
+     "title": {
+      "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
+      "english": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
+      "native": "カードファイト!! ヴァンガード Divinez 運命星戦編"
+     },
+     "format": "TV",
+     "episodes": 3,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 7
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 21
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 436,
+     "favourites": 5,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Kinema Citrus"
+       },
+       {
+        "name": "Gift-o’-Animation"
+       },
+       {
+        "name": "Studio JEMI"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/214536"
+    },
+    {
+     "id": 205289,
+     "idMal": 63221,
+     "title": {
+      "romaji": "Norman the Snowman: Kodomo-tachi no Hitotsuboshi",
+      "english": null,
+      "native": "ノーマン・ザ・スノーマン ~こどもたちのひとつ星~"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "FALL",
+     "seasonYear": 2026,
+     "startDate": {
+      "year": 2026,
+      "month": 12,
+      "day": null
+     },
+     "endDate": {
+      "year": 2026,
+      "month": 12,
+      "day": null
+     },
+     "genres": [
+      "Fantasy"
+     ],
+     "tags": [],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 183,
+     "favourites": 2,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "TECARAT"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/205289"
+    }
+   ]
+  }
+ }
+}

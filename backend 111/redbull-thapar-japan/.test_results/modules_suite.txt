@@ -1,0 +1,257 @@
+........................................................................ [ 10%]
+...........xxxxxx....................................................... [ 20%]
+....................................ssss................................ [ 30%]
+........................................................................ [ 41%]
+........................................................................ [ 51%]
+........................................................................ [ 61%]
+........................................................................ [ 71%]
+........................................................................ [ 82%]
+........................................................................ [ 92%]
+......................................................                   [100%]
+=============================== warnings summary ===============================
+tests/test_engine_api.py::test_app_factory_builds_fastapi_app
+  /Users/apple/miniconda3/lib/python3.14/site-packages/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+    from starlette.testclient import TestClient as TestClient  # noqa
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+============================ Hypothesis Statistics =============================
+tests/property/test_properties.py::test_content_hash_deterministic_and_hex:
+
+  - during generate phase (0.53 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_content_hash_matches_hashlib_for_bmp_text:
+
+  - during generate phase (0.62 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_content_hash_injective_enough:
+
+  - during generate phase (0.62 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_evidence_auto_hash_covers_content:
+
+  - during generate phase (0.61 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_registry_create_round_trip:
+
+  - during generate phase (0.63 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_local_cache_set_get_round_trip:
+
+  - during generate phase (2.41 seconds):
+    - Typical runtimes: ~ 0-3 ms, of which ~ 0-2 ms in data generation
+    - 1500 passing, 0 failing, and 118 invalid test cases
+    - Events:
+      * 14.89%, Draw for recursive(one_of(none(), booleans(), integers(min_value=-1_000_000_000, max_value=1_000_000_000), floats(allow_nan=False)), lambda children: st.lists(children, max_size=4) | st.dictionaries(st.text(min_size=1, max_size=8), children, max_size=4), min_leaves=None, max_leaves=8) exceeded max_leaves=8 and had to be retried
+      * 0.19%, Retried draw from text(characters(codec='utf-8'), min_size=1, max_size=8).filter(not_yet_in_unique_list) to satisfy filter
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_local_cache_overwrite_last_wins:
+
+  - during generate phase (2.83 seconds):
+    - Typical runtimes: ~ 0-3 ms, of which ~ 0-2 ms in data generation
+    - 1500 passing, 0 failing, and 48 invalid test cases
+    - Events:
+      * 17.05%, Draw for recursive(one_of(none(), booleans(), integers(min_value=-1_000_000_000, max_value=1_000_000_000), floats(allow_nan=False)), lambda children: st.lists(children, max_size=4) | st.dictionaries(st.text(min_size=1, max_size=8), children, max_size=4), min_leaves=None, max_leaves=8) exceeded max_leaves=8 and had to be retried
+      * 0.65%, Retried draw from text(characters(codec='utf-8'), min_size=1, max_size=8).filter(not_yet_in_unique_list) to satisfy filter
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_local_cache_ttl_boundary:
+
+  - during generate phase (0.65 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_token_bucket_never_grants_more_than_capacity:
+
+  - during generate phase (0.95 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_token_bucket_independent_keys:
+
+  - during generate phase (0.49 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_memory_recall_top_hit_has_max_overlap:
+
+  - during generate phase (1.37 seconds):
+    - Typical runtimes: ~ 0-1 ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 24 invalid test cases
+    - Events:
+      * 0.13%, Retried draw from ListStrategy(text(characters(categories=(), include_characters='abcdefghij'), min_size=1, max_size=8), min_size=1, max_size=6).map(' '.join).filter(not_yet_in_unique_list) to satisfy filter
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_memory_round_trip_metadata:
+
+  - during generate phase (1.45 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 473 invalid test cases
+    - Events:
+      * 0.30%, Retried draw from text(characters(codec='utf-8'), min_size=1, max_size=6).filter(not_yet_in_unique_list) to satisfy filter
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_graph_upsert_get_all_ids_round_trip:
+
+  - during generate phase (0.90 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 19 invalid test cases
+    - Events:
+      * 6.78%, Retried draw from text(characters(categories=(), include_characters='xyz'), min_size=3, max_size=5).filter(not_yet_in_unique_list) to satisfy filter
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_graph_evidence_for_unknown_empty:
+
+  - during generate phase (0.15 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 363 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because nothing left to do
+
+
+tests/property/test_properties.py::test_gate_ready_monotone_in_n:
+
+  - during generate phase (0.75 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_gate_forecast_echo_and_threshold:
+
+  - during generate phase (0.81 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_parse_price_never_raises:
+
+  - during generate phase (0.52 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_parse_price_rupee_int_round_trip:
+
+  - during generate phase (0.93 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 187 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_parse_price_first_match:
+
+  - during generate phase (0.64 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_to_evidence_preserves_count:
+
+  - during generate phase (2.15 seconds):
+    - Typical runtimes: ~ 0-1 ms, of which ~ 0-1 ms in data generation
+    - 1500 passing, 0 failing, and 116 invalid test cases
+    - Events:
+      * 0.19%, Retried draw from text(characters(codec='utf-8'), min_size=1, max_size=8).filter(not_yet_in_unique_list) to satisfy filter
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_tweet_evidence_never_raises:
+
+  - during generate phase (1.62 seconds):
+    - Typical runtimes: ~ 0-1 ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 156 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_normalizer_divides_by_factor:
+
+  - during generate phase (0.76 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_normalizer_preserves_length_and_order:
+
+  - during generate phase (1.34 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 93 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_grounding_block_line_count_and_prefix:
+
+  - during generate phase (1.01 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 138 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_properties.py::test_query_extra_isolated:
+
+  - during generate phase (0.52 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+692 passed, 4 skipped, 6 xfailed, 1 warning in 29.55s

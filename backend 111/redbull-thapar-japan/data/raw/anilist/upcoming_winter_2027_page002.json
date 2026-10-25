@@ -1,0 +1,930 @@
+{
+ "data": {
+  "Page": {
+   "pageInfo": {
+    "total": 66,
+    "currentPage": 2,
+    "lastPage": 2,
+    "hasNextPage": false,
+    "perPage": 50
+   },
+   "media": [
+    {
+     "id": 211258,
+     "idMal": null,
+     "title": {
+      "romaji": "Arafou Kenja no Isekai Seikatsu Nikki",
+      "english": null,
+      "native": "アラフォー賢者の異世界生活日記"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "tags": [
+      {
+       "name": "Seinen",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Male Protagonist",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Magic",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Isekai",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1321,
+     "favourites": 17,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "YANCHESTER"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/211258"
+    },
+    {
+     "id": 210157,
+     "idMal": 63851,
+     "title": {
+      "romaji": "Love Live! Hasunosora Jogakuin School Idol Club",
+      "english": null,
+      "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+     },
+     "format": "TV",
+     "episodes": 7,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 10
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Music",
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Idol",
+       "rank": 100,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Female Cast",
+       "rank": 73,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1223,
+     "favourites": 11,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Sublimation"
+       }
+      ]
+     },
+     "source": "OTHER",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/210157"
+    },
+    {
+     "id": 183692,
+     "idMal": 60230,
+     "title": {
+      "romaji": "Kidou Senshi Gundam SEED FREEDOM ZERO",
+      "english": "Mobile Suit Gundam SEED FREEDOM ZERO",
+      "native": "機動戦士ガンダムSEED FREEDOM ZERO"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 15
+     },
+     "endDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 15
+     },
+     "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+     ],
+     "tags": [],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1200,
+     "favourites": 5,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Sunrise"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/183692"
+    },
+    {
+     "id": 185699,
+     "idMal": 60555,
+     "title": {
+      "romaji": "Ramen Aka Neko: Sono ni",
+      "english": null,
+      "native": "ラーメン赤猫 其の二"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Shounen",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Iyashikei",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Restaurant",
+       "rank": 79,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Ensemble Cast",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Animal Cast",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1114,
+     "favourites": 10,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "E&H Production"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/185699"
+    },
+    {
+     "id": 209224,
+     "idMal": 63706,
+     "title": {
+      "romaji": "Game Sekai Tensei <Dankatsu>: Gamer wa [Dungeon Shuukatsu no Susume] wo <Hajime kara> Play Suru",
+      "english": null,
+      "native": "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Reincarnation",
+       "rank": 60,
+       "isGeneralSpoiler": true
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1082,
+     "favourites": 7,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Studio Massket"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/209224"
+    },
+    {
+     "id": 214461,
+     "idMal": 64665,
+     "title": {
+      "romaji": "Shin no Seijo de aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari desu",
+      "english": null,
+      "native": "真の聖女である私は追放されました。だからこの国はもう終わりです"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+     ],
+     "tags": [
+      {
+       "name": "Josei",
+       "rank": 10,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1042,
+     "favourites": 9,
+     "trending": 1,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Tsumugi Akita Anime Lab"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/214461"
+    },
+    {
+     "id": 207328,
+     "idMal": 63424,
+     "title": {
+      "romaji": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+      "english": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
+      "native": "悠久の愚者アズリーの、賢者のすゝめ"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+     ],
+     "tags": [
+      {
+       "name": "Seinen",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1025,
+     "favourites": 8,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Studio elle"
+       }
+      ]
+     },
+     "source": "LIGHT_NOVEL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/207328"
+    },
+    {
+     "id": 214969,
+     "idMal": 64782,
+     "title": {
+      "romaji": "Akazukin, Tabi no Tochuu de Shitai to Deau.",
+      "english": null,
+      "native": "赤ずきん、旅の途中で死体と出会う。"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Fantasy",
+      "Mystery"
+     ],
+     "tags": [
+      {
+       "name": "Fairy Tale",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Seinen",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 1013,
+     "favourites": 3,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "BENTEN Film"
+       }
+      ]
+     },
+     "source": "OTHER",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/214969"
+    },
+    {
+     "id": 203116,
+     "idMal": null,
+     "title": {
+      "romaji": "Charisma",
+      "english": null,
+      "native": "カリスマ"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy",
+      "Music"
+     ],
+     "tags": [
+      {
+       "name": "Primarily Male Cast",
+       "rank": 50,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Shoujo",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 810,
+     "favourites": 11,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "PIERROT FILMS"
+       }
+      ]
+     },
+     "source": "OTHER",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/203116"
+    },
+    {
+     "id": 217433,
+     "idMal": null,
+     "title": {
+      "romaji": "Mera×Death: Shinigami to Boku no Ijou na Koi",
+      "english": null,
+      "native": "メラ×デス 死神と僕の異常な恋"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 5
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [],
+     "tags": [
+      {
+       "name": "Ensemble Cast",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Video Games",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Monster Girl",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Super Power",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 567,
+     "favourites": 8,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Qzil.la"
+       },
+       {
+        "name": "studio keel"
+       }
+      ]
+     },
+     "source": null,
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/217433"
+    },
+    {
+     "id": 203141,
+     "idMal": 63035,
+     "title": {
+      "romaji": "Everyday Host (Zoku-hen)",
+      "english": null,
+      "native": "えぶりでいホスト (続編)"
+     },
+     "format": null,
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy"
+     ],
+     "tags": [],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 498,
+     "favourites": 4,
+     "trending": 0,
+     "studios": {
+      "nodes": []
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/203141"
+    },
+    {
+     "id": 212653,
+     "idMal": null,
+     "title": {
+      "romaji": "Kidou Keisatsu Patlabor EZY File 3",
+      "english": null,
+      "native": "機動警察パトレイバー EZY File 3"
+     },
+     "format": "OVA",
+     "episodes": 2,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 3,
+      "day": 12
+     },
+     "endDate": {
+      "year": 2027,
+      "month": 3,
+      "day": 12
+     },
+     "genres": [
+      "Mecha"
+     ],
+     "tags": [],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 440,
+     "favourites": 2,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "J.C.STAFF"
+       }
+      ]
+     },
+     "source": "ORIGINAL",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/212653"
+    },
+    {
+     "id": 213814,
+     "idMal": 64541,
+     "title": {
+      "romaji": "Aikatsu Stars!: Hoshiboshi no Progress",
+      "english": null,
+      "native": "アイカツスターズ！ ～星々のProgress～"
+     },
+     "format": "MOVIE",
+     "episodes": 1,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 22
+     },
+     "endDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 22
+     },
+     "genres": [
+      "Music"
+     ],
+     "tags": [
+      {
+       "name": "Idol",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Primarily Female Cast",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Female Protagonist",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 369,
+     "favourites": 5,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Bandai Namco Pictures"
+       }
+      ]
+     },
+     "source": "VIDEO_GAME",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/213814"
+    },
+    {
+     "id": 215695,
+     "idMal": 64746,
+     "title": {
+      "romaji": "Komadori Mofmof Parade",
+      "english": null,
+      "native": "こまどり モフモフパレード"
+     },
+     "format": "TV",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy"
+     ],
+     "tags": [
+      {
+       "name": "Aliens",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Chibi",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      },
+      {
+       "name": "Stop Motion",
+       "rank": 60,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 217,
+     "favourites": 2,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "dwarf"
+       }
+      ]
+     },
+     "source": "OTHER",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/215695"
+    },
+    {
+     "id": 216858,
+     "idMal": null,
+     "title": {
+      "romaji": "Haru to Gen: 70-sai, Hajimete Kosodate",
+      "english": null,
+      "native": "ハルとゲン ～70歳、はじめての子育て～"
+     },
+     "format": "TV_SHORT",
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": 4
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Slice of Life"
+     ],
+     "tags": [
+      {
+       "name": "Flash",
+       "rank": 20,
+       "isGeneralSpoiler": false
+      }
+     ],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 81,
+     "favourites": 2,
+     "trending": 0,
+     "studios": {
+      "nodes": [
+       {
+        "name": "Imageworks Studio"
+       },
+       {
+        "name": "Imagica Infos"
+       },
+       {
+        "name": "Studio Nanahoshi"
+       }
+      ]
+     },
+     "source": "MANGA",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/216858"
+    },
+    {
+     "id": 217129,
+     "idMal": null,
+     "title": {
+      "romaji": "Aware! Meisaku-kun (2027)",
+      "english": null,
+      "native": "あはれ！名作くん (2027)"
+     },
+     "format": null,
+     "episodes": null,
+     "duration": null,
+     "status": "NOT_YET_RELEASED",
+     "season": "WINTER",
+     "seasonYear": 2027,
+     "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+     },
+     "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+     },
+     "genres": [
+      "Comedy"
+     ],
+     "tags": [],
+     "averageScore": null,
+     "meanScore": null,
+     "popularity": 22,
+     "favourites": 1,
+     "trending": 0,
+     "studios": {
+      "nodes": []
+     },
+     "source": "OTHER",
+     "countryOfOrigin": "JP",
+     "isAdult": false,
+     "siteUrl": "https://anilist.co/anime/217129"
+    }
+   ]
+  }
+ }
+}

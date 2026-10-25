@@ -1,0 +1,174 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://sakurascore.india/schemas/output.schema.v1.json",
+  "title": "SakuraScore simulation output (schema v1.0)",
+  "description": "Contract returned by run_simulation(). JSON Schema provided for documentation/tooling; authoritative validator is sakurascore_sim.results.validate_output.",
+  "type": "object",
+  "required": ["schema_version", "ip_id", "experiment_id", "simulation_status", "engine",
+               "scenarios", "comparisons", "assumptions", "source_references",
+               "limitations", "run_metadata"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "ip_id": {"type": "string"},
+    "title": {"type": "string"},
+    "experiment_id": {"type": "string"},
+    "simulation_status": {"enum": ["completed", "completed_with_warnings", "failed"]},
+    "engine": {"type": "string"},
+    "engine_version": {"type": "string"},
+    "data_label_legend": {"type": "object"},
+    "errors": {"type": "array", "items": {"$ref": "#/definitions/error"},
+      "description": "Present when simulation_status == failed."},
+    "warnings": {"type": "array", "items": {"$ref": "#/definitions/error"}},
+    "scenarios": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "languages_available", "totals", "per_round", "per_segment", "per_language", "data_label"],
+        "properties": {
+          "id": {"type": "string"},
+          "label": {"type": "string"},
+          "counterfactual": {"type": "boolean"},
+          "languages_available": {"type": "array", "items": {"type": "string"}},
+          "marketing_reach": {"type": "object"},
+          "seed": {"type": "integer"},
+          "data_label": {"const": "simulated"},
+          "totals": {
+            "type": "object",
+            "required": ["reach", "reach_rate", "engaged", "engagement_rate", "data_label"],
+            "properties": {
+              "reach": {"type": "integer"},
+              "reach_rate": {"type": "number"},
+              "viewed": {"type": "integer"},
+              "view_rate": {"type": "number"},
+              "engaged": {"type": "integer"},
+              "engagement_rate": {"type": "number"},
+              "shares_total": {"type": "integer"},
+              "discussions_total": {"type": "integer"},
+              "shares_per_agent": {"type": "number"},
+              "data_label": {"const": "simulated"}
+            }
+          },
+          "per_round": {"type": "array", "items": {"type": "object"}},
+          "per_segment": {"type": "object"},
+          "per_language": {"type": "object"},
+          "variability": {
+            "type": "object",
+            "description": "Present when more than one seed was run.",
+            "properties": {
+              "repetitions": {"type": "integer"},
+              "seeds": {"type": "array", "items": {"type": "integer"}},
+              "engagement_rate": {"$ref": "#/definitions/stats"},
+              "reach_rate": {"$ref": "#/definitions/stats"},
+              "shares_total": {"$ref": "#/definitions/stats"}
+            }
+          },
+          "graph": {"type": "object"},
+          "duration_ms": {"type": "integer"}
+        }
+      }
+    },
+    "comparisons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["baseline_id", "scenario_id", "metrics", "drivers"],
+        "properties": {
+          "baseline_id": {"type": "string"},
+          "scenario_id": {"type": "string"},
+          "paired_seeds": {"type": "boolean"},
+          "repetitions": {"type": "integer"},
+          "metrics": {"type": "object",
+            "description": "Per-metric paired deltas: baseline_mean, comparison_mean, delta_mean/std/min/max, relative_lift_mean."},
+          "per_segment_engagement_delta": {"type": "object"},
+          "drivers": {"type": "array",
+            "description": "Input parameters that differ between the scenarios and the engine assumption each activates."}
+        }
+      }
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "statement", "type", "data_label"],
+        "properties": {
+          "id": {"type": "string"},
+          "statement": {"type": "string"},
+          "role": {"type": "string"},
+          "type": {"type": "string"},
+          "value": {"type": "object"},
+          "evidence_ids": {"type": "array", "items": {"type": "string"}},
+          "data_label": {"enum": ["observed", "inferred", "simulated", "unknown"]}
+        }
+      }
+    },
+    "source_references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "url", "label"],
+        "properties": {
+          "id": {"type": "string"},
+          "title": {"type": "string"},
+          "url": {"type": "string", "pattern": "^https?://"},
+          "publisher": {"type": "string"},
+          "date": {"type": "string"},
+          "type": {"type": "string"},
+          "region": {"type": "string"},
+          "label": {"enum": ["observed", "inferred"]},
+          "quality": {"enum": ["high", "medium", "low"]},
+          "tags": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "statement", "severity"],
+        "properties": {
+          "id": {"type": "string"},
+          "statement": {"type": "string"},
+          "severity": {"enum": ["critical", "high", "medium", "low"]}
+        }
+      }
+    },
+    "run_metadata": {
+      "type": "object",
+      "required": ["agent_count", "rounds"],
+      "properties": {
+        "engine": {"type": "string"},
+        "engine_version": {"type": "string"},
+        "rng": {"type": "string"},
+        "python_version": {"type": "string"},
+        "agent_count": {"type": "integer"},
+        "rounds": {"type": "integer"},
+        "seeds": {"type": "array", "items": {"type": "integer"}},
+        "paired_design": {"type": "boolean"},
+        "config_hash": {"type": "string"},
+        "total_duration_ms": {"type": "integer"},
+        "generated_at": {"type": "string"}
+      }
+    }
+  },
+  "definitions": {
+    "error": {
+      "type": "object",
+      "required": ["code", "message"],
+      "properties": {
+        "code": {"type": "string"},
+        "message": {"type": "string"},
+        "field": {"type": "string"},
+        "details": {"type": "object"}
+      }
+    },
+    "stats": {
+      "type": "object",
+      "properties": {
+        "mean": {"type": ["number", "null"]},
+        "std": {"type": ["number", "null"]},
+        "min": {"type": ["number", "null"]},
+        "max": {"type": ["number", "null"]}
+      }
+    }
+  }
+}

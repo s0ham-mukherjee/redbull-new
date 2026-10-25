@@ -1,0 +1,1321 @@
+{
+ "article": "Naruto",
+ "project": "hi.wikipedia",
+ "source_title": "Naruto",
+ "items": [
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024102500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024110200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024110500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024110700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024111100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024112100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024120200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024120900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024122000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024122300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024122400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2024123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025010600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025013100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025020200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025022200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026031500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026032000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026032200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026040600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026043000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026051400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 3
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026093000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026100100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 2
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  },
+  {
+   "project": "hi.wikipedia",
+   "article": "Naruto",
+   "granularity": "daily",
+   "timestamp": "2026101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 1
+  }
+ ]
+}

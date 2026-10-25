@@ -1,0 +1,67 @@
+NOTICE - Third-Party Repository Attribution
+===========================================
+
+SakuraScore India's `src/` tree contains **original adapter code only**.
+No upstream source has been copied, rebranded or re-licensed. Each entry
+below is consumed *in place* from a shallow clone under `external/` (or
+from the equivalent PyPI package when installed), imported lazily through
+`src/providers/_bootstrap.py`.
+
+Pinned upstream revisions (shallow clones, `git rev-parse --short HEAD`):
+
+| # | Clone (`external/`)            | Upstream                                | License            | Rev      | Consumed by provider module(s)                        | Registration (kind/name)          |
+|---|--------------------------------|-----------------------------------------|--------------------|----------|-------------------------------------------------------|-----------------------------------|
+| 1 | `Agent-Reach`                  | github.com/Panniantong/Agent-Reach      | MIT                | beabda7  | `providers/research_router.py`                        | `router/multi_channel`, `source/reach_reddit` |
+| 2 | `MAPIE`                        | github.com/scikit-learn-contrib/MAPIE   | BSD-3-Clause       | f1cc3d0  | `providers/uncertainty.py`                            | `uncertainty/conformal_regressor` |
+| 3 | `MiroFish`                     | github.com/666ghj/MiroFish              | **AGPL-3.0**       | 7657031  | `providers/simulation.py` (**HTTP bridge only**)      | `simulator/mirofish_service`      |
+| 4 | `crawl4ai`                     | github.com/unclecode/crawl4ai           | Apache-2.0         | 30165f1  | `providers/web_extract.py`                            | `extractor/web_page`              |
+| 5 | `deepeval`                     | github.com/confident-ai/deepeval        | Apache-2.0         | 5410e38  | `providers/evaluation.py`                             | `evaluator/factual_consistency`   |
+| 6 | `dgraph`                       | github.com/dgraph-io/dgraph             | Apache-2.0         | 1714bf3  | `providers/knowledge_graph.py` (HTTP API client)      | `store/dgraph`                    |
+| 7 | `fastapi`                      | github.com/fastapi/fastapi              | MIT                | 7a0a3f0  | `providers/presentation.py`                           | `app/decision_api`                |
+| 8 | `indic_nlp_library`            | github.com/anoopkunchukuttan/indic_nlp_library | MIT          | 4cead0a  | `providers/nlp.py`                                    | `text/indic`                      |
+| 9 | `jikanpy`                      | github.com/abhinavk99/jikanpy           | MIT                | 808109c  | `providers/anime_metadata.py`                         | `source/anime_metadata`           |
+|10 | `oasis`                        | github.com/camel-ai/oasis               | Apache-2.0         | 8607dba  | `providers/simulation.py`                             | `simulator/oasis_swarm`           |
+|11 | `praw`                         | github.com/praw-dev/praw                | BSD-2-Clause       | 99e8a56  | `providers/social.py`                                 | `source/reddit`                   |
+|12 | `prefect`                      | github.com/prefecthq/prefect            | Apache-2.0         | f1f98c3  | `providers/scheduling.py`                             | `scheduler/prefect`               |
+|13 | `python-mwviews`               | github.com/mediawiki-utilities/python-mwviews | MIT          | d6135ae  | `providers/pageviews.py`                              | `timeseries/wiki_pageviews`       |
+|14 | `pytrends`                     | github.com/GeneralMills/pytrends        | Apache-2.0         | a9984ff  | `providers/trends.py`                                 | `timeseries/search_trends`, `normalizer/trend_growth` |
+|15 | `redis-py`                     | github.com/redis/redis-py               | MIT                | 36c0bbf  | `providers/cache.py`                                  | `cache/redis`, `limiter/token_bucket` |
+|16 | `scrapy`                       | github.com/Scrapy/scrapy                | BSD-3-Clause       | 171ccbe  | `providers/retail.py`                                 | `source/retail`                   |
+|17 | `streamlit`                    | github.com/streamlit/streamlit          | Apache-2.0         | 76ac483  | `providers/presentation.py`                           | `ui/decision_dashboard`           |
+|18 | `transformers`                 | github.com/huggingface/transformers     | Apache-2.0         | 50e35cc  | `providers/nlp.py`                                    | `sentiment/transformer`           |
+|19 | `yt-dlp`                       | github.com/yt-dlp/yt-dlp                | Unlicense          | fa98866  | `providers/social.py`                                 | `source/youtube`                  |
+|20 | `zep`                          | github.com/getzep/zep                   | Apache-2.0         | a3a9194  | `providers/memory.py` (REST client)                   | `memory/zep`                      |
+
+Each clone retains its original `LICENSE` / `LICENSE.md` / `LICENSE.txt`
+file (and any `NOTICE`/`THIRD_PARTY_NOTICES` it ships) verbatim under
+`external/<repo>/`. Those files govern the upstream code itself; consult
+them before redistributing the clones.
+
+License obligations by category
+------------------------------
+
+* **Apache-2.0 (items 4, 5, 6, 10, 12, 14, 17, 18, 20):** retained notices
+  must be preserved when redistributing those clones. This project does not
+  redistribute them; if you vendor any clone, carry its `LICENSE` + `NOTICE`
+  along unchanged.
+* **MIT / BSD (items 2, 7, 8, 9, 11, 13, 15, 16):** copyright notices must
+  accompany substantial copies; same policy as above.
+* **Unlicense (item 19):** public domain; no attribution requirement, listed
+  here for completeness.
+* **AGPL-3.0 (item 3, MiroFish):** treated specially. **No MiroFish code is
+  imported or linked into this package.** `providers/simulation.py` exposes
+  `mirofish_service`, which only speaks HTTP to a separately-running
+  MiroFish backend (`FLASK_HOST:FLASK_PORT`, default `:5001`). Running
+  MiroFish as an independent service keeps this repository's own license
+  unaffected; if you modify MiroFish itself, the AGPL applies to *that*
+  deployment, so provide its source to your service users.
+
+Runtime dependencies installed from PyPI (not vendored): `requests`,
+`pydantic`, `numpy`, `scikit-learn`, plus lightweight upstream deps
+(`simplejson`, `prawcore`, `pyOpenSSL`, `chardet`, `lark`, `tiktoken`,
+`sentence-transformers`, `twisted`, `openai`, ...) required to import the
+clones from source.
+
+Data-source terms (Section 9 of the research dossier) - Jikan, Google
+Trends, Wikimedia pageviews, YouTube, Reddit, and general web crawling -
+remain the operator's responsibility at run time.

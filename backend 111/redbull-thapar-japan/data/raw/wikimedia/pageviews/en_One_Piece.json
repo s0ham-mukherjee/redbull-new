@@ -1,0 +1,6586 @@
+{
+ "article": "One Piece",
+ "project": "en.wikipedia",
+ "source_title": "ONE PIECE",
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7073
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6591
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 12280
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6878
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6444
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7321
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6505
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024102900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6150
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024103000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6412
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024103100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6267
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6528
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6297
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7790
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7482
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7182
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6528
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6418
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6628
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6482
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6722
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6296
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6085
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6256
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6079
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5797
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6165
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6021
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024111900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5858
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5866
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5767
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5729
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5652
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5943
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6028
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5720
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5311
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7086
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5679
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024113000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5597
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5903
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5812
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5681
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5522
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5791
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5769
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6382
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024120900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5591
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5492
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5412
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5286
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5340
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5861
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5657
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5645
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024121900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5758
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5882
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5503
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6188
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5762
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5714
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5921
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5839
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6078
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6469
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024123000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5853
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2024123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5782
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5954
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5770
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6000
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6473
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6564
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9446
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025010900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6180
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6077
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6126
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5710
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5658
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5803
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5878
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5772
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025011900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5949
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6074
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6346
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7023
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6630
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6091
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6396
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7211
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6096
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025012900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5969
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025013000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6146
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025013100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6790
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7071
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6451
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6929
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6725
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6771
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6698
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025020900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6719
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6107
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5995
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6110
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5832
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5835
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6443
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6347
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6219
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025021900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6630
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6361
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6289
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6555
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6750
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6797
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7186
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025022800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6581
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6585
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6915
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6636
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6420
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6449
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7104
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6781
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025030900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7152
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6559
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6078
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6545
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6551
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6473
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7244
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6771
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7062
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025031900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6929
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6681
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6842
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7696
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7721
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9424
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7771
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8552
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7829
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025032900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7402
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025033000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8081
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025033100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7621
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7899
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8637
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8639
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8631
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10955
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11325
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9776
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8758
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8165
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8303
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7867
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7660
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9167
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9619
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9051
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8768
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8616
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8904
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025041900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8909
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11220
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9559
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8793
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8349
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10546
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9451
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9564
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025043000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7926
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7787
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7467
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9210
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9035
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8235
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7463
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7593
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7253
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8536
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7976
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8256
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8303
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8017
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9635
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8885
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10165
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6439
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6352
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5627
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5609
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5610
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6885
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6992
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6088
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025052900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8295
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025053000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8602
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11106
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 18812
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 15086
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 13631
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 12985
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 13789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9366
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10046
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10245
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9434
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9282
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8049
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7053
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7997
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8079
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7471
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7786
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7767
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7612
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8046
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7584
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6843
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5987
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5373
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5414
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025063000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5080
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5014
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4867
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5511
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5009
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5519
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5144
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5149
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025070900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5129
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5181
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5055
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5680
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6324
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5687
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6237
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6174
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025071900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6519
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6685
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6244
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11732
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5640
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5513
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5916
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7583
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025072900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6071
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025073000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5649
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025073100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5476
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5973
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6360
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6874
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6532
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6418
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6583
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025080900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6311
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11698
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9428
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8330
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7913
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6797
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7403
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7927
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7411
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025081900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7204
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6798
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6672
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6324
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7017
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6461
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6315
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6145
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7039
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025083100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7463
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6577
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6188
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6228
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6905
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6962
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6951
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7044
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025090900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7328
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6532
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7134
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7639
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7782
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6893
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7333
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7321
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025091900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7048
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7656
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8314
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7614
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6844
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6983
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6636
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7452
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025093000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7068
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6859
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7528
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7360
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7167
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8104
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7830
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7183
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7170
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025100900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7299
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6989
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7065
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8430
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7846
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7252
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6966
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7278
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7364
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7800
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025101900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10115
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8348
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7773
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7393
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7825
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6811
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7177
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8158
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7724
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025102900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9343
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7779
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7902
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7956
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7865
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7364
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7255
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7518
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10024
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7884
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8110
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6965
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10675
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7111
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7026
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7157
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9252
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8039
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8041
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6883
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7115
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7871
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6876
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7502
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7435
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6898
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9818
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8077
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 25952
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10205
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6587
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6106
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6209
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6193
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5805
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8340
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7782
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6023
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5755
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5830
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6141
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6618
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5808
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6277
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5906
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7354
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7357
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6449
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7331
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7508
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9420
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8823
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10674
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9074
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7526
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7794
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6974
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7657
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7320
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7001
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6764
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7496
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9418
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6578
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6799
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7892
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7816
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7259
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7276
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6718
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6936
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6398
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6251
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5951
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6236
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6133
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6910
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6344
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5710
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5849
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5700
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5639
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5573
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5855
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6952
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6435
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5801
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5841
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5432
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6703
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6673
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6709
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5995
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5763
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6388
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6266
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6703
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6028
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6129
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6125
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6254
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7919
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6215
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6258
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6335
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6132
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6584
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6014
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6515
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9175
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10156
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9051
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8174
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7536
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7879
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026030900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 19483
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 27552
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 27993
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 30082
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 34271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 37648
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 31201
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 26924
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 24362
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026031900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 22632
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 21373
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 21870
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 23185
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 21018
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 18597
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 17667
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 15863
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 15055
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 16031
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026032900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 16376
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026033000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 14666
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026033100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 14213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 13101
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 12726
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 13615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 13678
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 15048
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 14059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 12879
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11923
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026040900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10765
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10929
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11152
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11157
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10511
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9486
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9089
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9552
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9304
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026041900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 10303
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9105
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8673
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8287
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8054
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8404
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8246
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8862
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8717
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7897
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026042900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026043000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7559
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7757
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7573
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8261
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8005
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8962
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8348
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7351
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9736
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026050900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8506
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 9019
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8565
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8314
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7499
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7024
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7026
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6904
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026051900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5962
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6258
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6074
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6162
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6593
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6784
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6500
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6568
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026052900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7412
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026053000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6653
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026053100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6661
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6461
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6101
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5531
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5572
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5561
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5861
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5801
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6145
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5806
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5594
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5825
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5852
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6008
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5189
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5445
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5844
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5415
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5894
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8140
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6626
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 7242
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6628
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 8679
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5664
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5082
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5164
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6122
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5442
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6057
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4958
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5080
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4784
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4944
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5186
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5908
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5248
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4761
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4979
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5051
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4471
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5191
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5210
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5090
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4895
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5144
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4755
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4707
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4975
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5381
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4871
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4921
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4505
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4473
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4963
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4599
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4417
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4482
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4426
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5565
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4543
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4503
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4341
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4465
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4622
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4701
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5319
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4513
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4531
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4834
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5278
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6634
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6418
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5445
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5701
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5080
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5654
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5131
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4951
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5602
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5445
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4922
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5206
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6128
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5023
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4884
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5109
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4618
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5114
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4867
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5060
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5333
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4854
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5183
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5312
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5610
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5527
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5719
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5146
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5217
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6148
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5948
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026092900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5707
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026093000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5591
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5322
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5061
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5777
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4996
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4766
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4850
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026100900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 4697
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5230
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 6516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5443
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101300",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5335
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101400",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5014
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101500",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5688
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101600",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101700",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5121
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101800",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026101900",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026102000",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 11317
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026102100",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5456
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "One_Piece",
+   "granularity": "daily",
+   "timestamp": "2026102200",
+   "access": "all-access",
+   "agent": "all-agents",
+   "views": 5738
+  }
+ ]
+}

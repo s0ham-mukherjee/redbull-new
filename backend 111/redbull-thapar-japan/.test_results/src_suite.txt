@@ -1,0 +1,400 @@
+.......................................................................x [  9%]
+xxxxxxxx................................................................ [ 19%]
+........................................................................ [ 29%]
+........................................................................ [ 39%]
+........................................................................ [ 49%]
+........................................................................ [ 59%]
+........................................................................ [ 69%]
+........................................................................ [ 79%]
+........................................................................ [ 89%]
+........................................................................ [ 99%]
+.....                                                                    [100%]
+============================ Hypothesis Statistics =============================
+tests/property/test_properties.py::test_p01_grade_matches_table:
+
+  - during generate phase (0.07 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p02_grade_monotone:
+
+  - during generate phase (0.08 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p03_percentile_bounds:
+
+  - during generate phase (0.10 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 46 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p04_percentile_exact_membership:
+
+  - during generate phase (0.10 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 26 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p05_percentile_scale_invariance:
+
+  - during generate phase (0.12 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 31 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p06_norm_idempotent:
+
+  - during generate phase (0.07 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p07_norm_charset:
+
+  - during generate phase (0.07 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p08_cultural_fit_bounds:
+
+  - during generate phase (0.20 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 14 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p09_friction_bounds:
+
+  - during generate phase (0.13 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 15 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p10_triggers_sorted_unique:
+
+  - during generate phase (0.12 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 14 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p11_cbfc_in_allowed_set:
+
+  - during generate phase (0.12 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 150 passing, 0 failing, and 17 invalid test cases
+
+  - Stopped because settings.max_examples=150
+
+
+tests/property/test_properties.py::test_p12_econ_four_plans_fixed_reach:
+
+  - during generate phase (0.11 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p13_econ_costs_positive_and_ordered:
+
+  - during generate phase (0.11 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p14_econ_recommended_mode_tier:
+
+  - during generate phase (0.11 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+tests/property/test_properties.py::test_p15_confidence_mirror_total:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 64 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because nothing left to do
+
+
+tests/property/test_properties.py::test_p16_scoring_deterministic:
+
+  - during generate phase (0.11 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 120 passing, 0 failing, and 8 invalid test cases
+
+  - Stopped because settings.max_examples=120
+
+
+tests/property/test_properties.py::test_p17_factor_contributions_sum_to_score:
+
+  - during generate phase (0.11 seconds):
+    - Typical runtimes: ~ 0-1 ms, of which < 1ms in data generation
+    - 120 passing, 0 failing, and 6 invalid test cases
+
+  - Stopped because settings.max_examples=120
+
+
+tests/property/test_properties.py::test_p18_localization_reach_tracks_multiplier:
+
+  - during generate phase (0.10 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 120 passing, 0 failing, and 5 invalid test cases
+
+  - Stopped because settings.max_examples=120
+
+
+tests/property/test_property_intelligence.py::test_cultural_engine_invariants:
+
+  - during generate phase (0.08 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 100 passing, 0 failing, and 13 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_intelligence.py::test_cultural_engine_determinism:
+
+  - during generate phase (0.08 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 100 passing, 0 failing, and 14 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_intelligence.py::test_overall_fit_bounds_match_formula:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 60 passing, 0 failing, and 7 invalid test cases
+
+  - Stopped because settings.max_examples=60
+
+
+tests/property/test_property_intelligence.py::test_econ_core_invariants:
+
+  - during generate phase (0.06 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 100 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_intelligence.py::test_costs_strictly_increase_with_episodes_and_duration:
+
+  - during generate phase (0.03 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 60 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=60
+
+
+tests/property/test_property_intelligence.py::test_recommendation_monotone_in_score:
+
+  - during generate phase (0.03 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 80 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=80
+
+
+tests/property/test_property_intelligence.py::test_format_inr_never_raises_and_contains_rupee_sign:
+
+  - during generate phase (0.10 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 40 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=40
+
+
+tests/property/test_property_intelligence.py::test_format_inr_non_negative_branches:
+
+  - during generate phase (0.01 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 40 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=40
+
+
+tests/property/test_property_pipeline.py::test_exporters_never_raise_and_schema_stable:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 60 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=60
+
+
+tests/property/test_property_pipeline.py::test_to_html_contains_escaped_title:
+
+  - during generate phase (0.03 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 60 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=60
+
+
+tests/property/test_property_pipeline.py::test_to_markdown_contains_title:
+
+  - during generate phase (0.03 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 60 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=60
+
+
+tests/property/test_property_pipeline.py::test_to_json_round_trips_unicode_title:
+
+  - during generate phase (0.03 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 60 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=60
+
+
+tests/property/test_property_pipeline.py::test_market_breakdown_invariants:
+
+  - during generate phase (0.12 seconds):
+    - Typical runtimes: ~ 1-2 ms, of which < 1ms in data generation
+    - 50 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=50
+
+
+tests/property/test_property_pipeline.py::test_run_candidate_determinism:
+
+  - during generate phase (0.03 seconds):
+    - Typical runtimes: ~ 4-5 ms, of which < 1ms in data generation
+    - 5 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because nothing left to do
+
+
+tests/property/test_property_scoring.py::test_grade_for_always_valid:
+
+  - during generate phase (0.50 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_property_scoring.py::test_grade_for_monotone_non_decreasing:
+
+  - during generate phase (0.60 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_property_scoring.py::test_grade_for_never_raises_on_any_float:
+
+  - during generate phase (0.58 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_property_scoring.py::test_percentile_bounds:
+
+  - during generate phase (1.09 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 219 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_property_scoring.py::test_percentile_monotone_in_x:
+
+  - during generate phase (1.26 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 183 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_property_scoring.py::test_percentile_empty_pool_is_50:
+
+  - during generate phase (0.58 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 1500 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=1500
+
+
+tests/property/test_property_scoring.py::test_score_candidate_invariants:
+
+  - during generate phase (0.18 seconds):
+    - Typical runtimes: ~ 0-2 ms, of which ~ 0-1 ms in data generation
+    - 100 passing, 0 failing, and 5 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_scoring.py::test_score_candidate_determinism:
+
+  - during generate phase (0.19 seconds):
+    - Typical runtimes: ~ 0-2 ms, of which ~ 0-1 ms in data generation
+    - 100 passing, 0 failing, and 7 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_scoring.py::test_genre_fit_bounds_for_arbitrary_genres:
+
+  - during generate phase (0.08 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 100 passing, 0 failing, and 9 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_scoring.py::test_momentum_factor_bounds_for_any_momentum:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 100 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=100
+
+
+tests/property/test_property_scoring.py::test_india_demand_trends_leg_clamped:
+
+  - during generate phase (0.02 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 50 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=50
+
+
+716 passed, 9 xfailed in 8.70s

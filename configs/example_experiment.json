@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "ip_id": "demon-slayer-infinity-castle",
+  "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
+  "experiment_id": "regional-dubbing-test",
+  "media_type": "anime_film",
+  "genre": "shonen_action",
+  "engine": "abm",
+  "evidence_file": "../data/evidence/india_anime_evidence.json",
+  "evidence": [],
+  "notes": "Experiment question: does regional-language dubbing change simulated engagement for an Indian audience? Scenario 'baseline-subs-only' is a COUNTERFACTUAL (Japanese + English availability only) against which the observed-style regional-dub strategy (Hindi/Tamil/Telugu added, mirroring the actual 2025-09-12 India release languages) is compared. Marketing reach is held IDENTICAL across scenarios so that language availability is the only manipulated variable. All segment parameters are modelling hypotheses linked to cited evidence; they are NOT measured demographics.",
+
+  "audience_segments": [
+    {
+      "id": "mainstream-anime-fans",
+      "label": "Mainstream anime viewers (regular streaming fans)",
+      "size_share": 0.30,
+      "base_interest": 0.75,
+      "discovery_base": 0.18,
+      "view_info_prob": 0.80,
+      "share_prob": 0.25,
+      "discuss_prob": 0.30,
+      "language_affinity": {"hi": 0.45, "en": 0.70, "ta": 0.15, "te": 0.15, "ja": 0.20},
+      "channel_affinity": {"streaming": 0.80, "social": 0.70, "theatrical": 0.30, "search": 0.40, "tv": 0.20},
+      "evidence_ids": ["forbes-nrg-india-penetration", "statista-crunchyroll-subs"],
+      "notes": "Hypothesis: subscribers/regular viewers of anime platforms; high English tolerance but growing Hindi-dub preference. Informed by NRG penetration growth and Crunchyroll platform scale."
+    },
+    {
+      "id": "regional-language-first",
+      "label": "Regional-language-first viewers (Hindi/Tamil/Telugu preference)",
+      "size_share": 0.25,
+      "base_interest": 0.60,
+      "discovery_base": 0.15,
+      "view_info_prob": 0.70,
+      "share_prob": 0.30,
+      "discuss_prob": 0.35,
+      "language_affinity": {"hi": 0.60, "ta": 0.25, "te": 0.15, "en": 0.20, "ja": 0.05},
+      "channel_affinity": {"streaming": 0.60, "social": 0.75, "theatrical": 0.45, "search": 0.25, "tv": 0.50},
+      "evidence_ids": ["imdb-crunchyroll-13-dubs-2024", "crunchyroll-dubs-may-2024", "ann-muse-hindi-launch", "muse-india-channel-scale"],
+      "notes": "Hypothesis: viewers whose engagement is unlocked by Hindi/Tamil/Telugu availability, as targeted by Crunchyroll's 2024-2026 dub slates and Muse's Hindi dub channel investments."
+    },
+    {
+      "id": "manga-first-readers",
+      "label": "Manga-first / source-material readers",
+      "size_share": 0.10,
+      "base_interest": 0.85,
+      "discovery_base": 0.20,
+      "view_info_prob": 0.90,
+      "share_prob": 0.35,
+      "discuss_prob": 0.40,
+      "language_affinity": {"ja": 0.45, "en": 0.80, "hi": 0.10, "ta": 0.05, "te": 0.05},
+      "channel_affinity": {"streaming": 0.50, "social": 0.60, "theatrical": 0.35, "search": 0.70, "tv": 0.05},
+      "evidence_ids": ["animesurvey-2025-india-share", "wiki-infinity-castle-worldwide"],
+      "notes": "Hypothesis: already-follow the IP; largely subs-tolerant; dubbing barely changes their behaviour. High vocalness (share/discuss)."
+    },
+    {
+      "id": "casual-streaming-viewers",
+      "label": "Casual viewers discovering via streaming/social",
+      "size_share": 0.25,
+      "base_interest": 0.40,
+      "discovery_base": 0.22,
+      "view_info_prob": 0.60,
+      "share_prob": 0.15,
+      "discuss_prob": 0.15,
+      "language_affinity": {"hi": 0.50, "en": 0.60, "ta": 0.05, "te": 0.05, "ja": 0.02},
+      "channel_affinity": {"streaming": 0.85, "social": 0.50, "theatrical": 0.15, "search": 0.20, "tv": 0.30},
+      "evidence_ids": ["forbes-nrg-india-penetration", "kenresearch-india-180m-fans"],
+      "notes": "Hypothesis: large, low-commitment pool; language-fit strongly modulates whether curiosity converts to interest."
+    },
+    {
+      "id": "film-event-audiences",
+      "label": "Film & event audiences (theatrical occasion-driven)",
+      "size_share": 0.10,
+      "base_interest": 0.55,
+      "discovery_base": 0.12,
+      "view_info_prob": 0.65,
+      "share_prob": 0.20,
+      "discuss_prob": 0.20,
+      "language_affinity": {"hi": 0.55, "en": 0.35, "ta": 0.05, "te": 0.05, "ja": 0.02},
+      "channel_affinity": {"streaming": 0.25, "social": 0.40, "theatrical": 0.90, "search": 0.20, "tv": 0.35},
+      "evidence_ids": ["ign-infinity-castle-opening", "koyoharu-opening-day-record", "imdb-infinity-castle-india-release"],
+      "notes": "Hypothesis: occasion-driven moviegoers; the actual Infinity Castle India release (2025-09-12, JP/HI/TA/TE) demonstrated a large dubbed-theatrical audience."
+    }
+  ],
+
+  "scenarios": [
+    {
+      "id": "baseline-subs-only",
+      "label": "Baseline: Japanese + English (subbed) availability",
+      "is_baseline": true,
+      "counterfactual": true,
+      "description": "Counterfactual control: original Japanese with English subtitles/availability only. Did not occur as such in reality (the actual release included regional dubs); used to isolate the language factor.",
+      "languages_available": ["ja", "en"],
+      "marketing_reach": {"streaming": 1.0, "social": 1.0, "theatrical": 1.0, "search": 1.0, "tv": 1.0}
+    },
+    {
+      "id": "regional-dub",
+      "label": "Regional-language strategy: + Hindi, Tamil, Telugu dubs",
+      "counterfactual": false,
+      "description": "Mirrors the observed release strategy: Hindi/Tamil/Telugu dubs added on top of the baseline (the actual Infinity Castle India release carried Japanese, Hindi, Tamil and Telugu).",
+      "languages_available": ["ja", "en", "hi", "ta", "te"],
+      "marketing_reach": {"streaming": 1.0, "social": 1.0, "theatrical": 1.0, "search": 1.0, "tv": 1.0}
+    }
+  ],
+
+  "simulation": {
+    "agent_count": 40,
+    "rounds": 6,
+    "seed": 42,
+    "variability": true,
+    "seeds": [42, 43, 44, 45, 46],
+    "network_degree": 3,
+    "word_of_mouth_boost": 0.8,
+    "announcement_boost": 2.0,
+    "dub_lift": 1.6,
+    "discovery_cap": 0.95
+  }
+}

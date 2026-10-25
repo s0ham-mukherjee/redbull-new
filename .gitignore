@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# node
+node_modules/
+
+# the 6.4G external clones + 4.2G zip stay out of git — the backend SOURCE is tracked
+backend 111/redbull-thapar-japan/modules/external/
+backend 111/*.zip
+
+# vercel serverless build staging (recreated by scripts/prepare-vercel.sh)
+api/_backend/
+.vercel/
+
+# temp
+*.tmp
+results/*.json.tmp
+.vercel
+.env*
+uv.lock
